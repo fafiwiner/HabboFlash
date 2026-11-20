@@ -170,6 +170,12 @@ Deben estar identificadas; implementar estaciones fijas de bloqueo ubicadas "en 
 > ✓ "Cuando no sea factible que el CBE saliente le entregue la llave y el formato de CBE al CBE entrante, esta llave junto con el formato deberá ser entregados al supervisor o líder a cargo detallando el trabajo pendiente y el bloqueo de los equipos. El supervisor entregará la llave y formato al CBE entrante detallando el trabajo pendiente y los puntos de bloqueo aislados."
 > ✓ "El CBE entrante agregará su información al formato de CBE en los campos necesarios."
 
+**Relevo CBE – continuación (diapositiva n.º 47 del curso, textual):**
+> ✓ "Ningún Personal Autorizado nuevo deberá colocar su candado en la caja de bloqueo hasta que se complete el relevo de CBE."
+> ✓ "El Personal Autorizado que bloqueó el equipo, continuará con su labor mientras el relevo de CBE este en proceso (p.e. personas que continúan el trabajo en sobretiempo)."
+> ✓ "La transferencia entre CBEs puede realizarse al final del turno o a medio turno, si es que existe la necesidad (p.e. reubicación de personal a otro trabajo) cumpliendo con lo especificado en este estándar."
+> ✓ "Si es posible realizar un relevo entre CBEs de distintas áreas o especialidades, contemplando todos los pasos del relevo."
+
 ### 4.6 Corte de candado = retiro forzado (6.7 – p. 8, Formato 02 – p. 15)
 > "Si un personal autorizado no está disponible para retirar su Candado de bloqueo o no se puede identificar al propietario de un dispositivo de bloqueo se puede eliminar el bloqueo usando el formato de corte de candado de bloqueo."
 
@@ -498,6 +504,19 @@ a) Al personal afectado b) Al personal calificado c) **Al supervisor o líder a 
 
 **56. (V/F)** En el relevo, el CBE saliente y el entrante deben relevarse los detalles del trabajo y el bloqueo.
 **Respuesta: V.** Diapositiva n.º 46. El estándar (p. 5) añade que deben confirmarlo verbalmente y pueden confirmar visualmente los dispositivos de bloqueo en uso.
+
+**57. (V/F)** Un Personal Autorizado nuevo puede colocar su candado en la caja de bloqueo mientras el relevo de CBE está en proceso.
+**Respuesta: F.** "Ningún Personal Autorizado nuevo deberá colocar su candado en la caja de bloqueo hasta que se complete el relevo de CBE." (diap. 47)
+
+**58. (V/F)** El Personal Autorizado que ya bloqueó el equipo puede continuar su labor mientras el relevo de CBE está en proceso (por ejemplo, personas que continúan el trabajo en sobretiempo).
+**Respuesta: V.** Diapositiva n.º 47.
+
+**59. (MC)** La transferencia entre CBEs puede realizarse:
+a) Solo al final del turno b) Solo a medio turno c) **Al final del turno o a medio turno, si existe la necesidad (p. e. reubicación de personal a otro trabajo), cumpliendo con lo especificado en el estándar** d) Nunca
+**Respuesta: c.** Diapositiva n.º 47.
+
+**60. (V/F)** Es posible realizar un relevo entre CBEs de distintas áreas o especialidades, contemplando todos los pasos del relevo.
+**Respuesta: V.** Diapositiva n.º 47 (y diap. 19: si se requiere apoyo de un CBE de otra área, el supervisor debe dar capacitación presencial previa de mínimo 5 horas).
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
