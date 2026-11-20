@@ -33,6 +33,9 @@ Las citas entre comillas son textuales del estándar. Lo que va fuera de comilla
 | **Puntos de bloqueo** | "Lista de dispositivos de aislamiento necesarios para realizar una actividad específica, que permiten aislar las fuentes de energía peligrosa." (Diapositiva del curso: "Es una LISTA DE DISPOSITIVOS DE AISLAMIENTO necesarios para realizar una actividad específica, que permiten aislar las fuentes de energía peligrosa.") |
 | **Tarjeta fuera de servicio** | "Se usa para identificar equipos que se encuentran inoperativos, la forma y contenido se encuentra en el anexo 03 del presente estándar. Para su aplicación usar un candado distinto (etiquetado para ese fin) al candado de bloqueo, la llave queda en control del supervisor. La tarjeta fuera de servicio no debe ser usada como parte del Proceso de Lototo, debe indicar fecha de expiración (máximo 6 meses)." |
 
+### Plan de bloqueo – aclaración (diapositiva n.º 8 del curso, textual)
+> "El 'Plan de bloqueo' *no elimina* la identificación de fuentes de energía que se debe realizar en campo (IPERC Continuo, Formato de CBE)."
+
 ### Plan de bloqueo (diapositiva del curso)
 > "Documento que detalla: *tareas a ejecutar, asignación de CBE* y la *lista de referencia de los puntos de bloqueo para cada tarea*."
 > ¿Quién lo elabora? "Elaborado con anterioridad por el *Supervisor del área y CBE asignados* para *detenciones de planta planifica[das]* (obligatorio) y para *actividades complejas* (cuan[do el] supervisor lo considere)." *(Palabras entre [ ] tapadas en la foto.)*
@@ -401,6 +404,9 @@ a) Coloca su candado personal en la caja b) **Completa el Formato de CBE y las T
 
 **41. (V/F)** En bloqueo grupal, quien indica los puntos a aislar al Personal Calificado es el Personal Afectado.
 **Respuesta: F.** Es el CBE, de acuerdo con el Formato de CBE (diap. 32).
+
+**42. (V/F)** Si existe un Plan de bloqueo, ya no es necesario identificar las fuentes de energía en campo.
+**Respuesta: F.** "El Plan de bloqueo *no elimina* la identificación de fuentes de energía que se debe realizar en campo (IPERC Continuo, Formato de CBE)." (diap. 8)
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
