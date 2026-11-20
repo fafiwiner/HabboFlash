@@ -63,6 +63,12 @@ Las citas entre comillas son textuales del estándar. Lo que va fuera de comilla
 - "P. afectado opera, a cargo del equipo"
 - "P. calificado aisla, repone, disipa"
 
+**Personal Afectado (diapositiva del curso, textual):**
+> "Es la persona que *opera o tiene a su cargo el equipo* en el que se va a ejecutar un trabajo."
+> ✓ "Autoriza la detención y aislamiento del equipo o sistema que se desea intervenir."
+> ✓ "Detiene los equipos a intervenir."
+> ✓ "Realiza la prueba de arranque del equipo bajo su responsabilidad solicitada por el CBE o Personal Autorizado."
+
 **Persona afectada (6.3.5):** "Persona que opera o usa el equipo que va a recibir mantenimiento. No realiza trabajos en el equipo que está bloqueado. Incluye personal que está presente en el área de trabajo."
 
 **Superintendente del área (p. 3):** asegura la correcta aplicación; "tener y aprobar una lista de su área de trabajo designando a los CBE y Personal Calificado tomando en cuenta antigüedad mínima un año de experiencia y conocimiento del área."
@@ -294,6 +300,13 @@ a) Elabora el Plan de bloqueo solo b) **Lidera el proceso de bloqueo grupal** c)
 **25. (MC)** Un requisito para ser CBE es:
 a) Ser personal de SMCV exclusivamente b) **Estar acreditado en LOTOTO y CBE y tener como mínimo 1 año de experiencia en el área de trabajo** c) Ser supervisor d) No tener experiencia previa
 **Respuesta: b.** Diapositiva CBE y estándar p. 3 (el superintendente designa a los CBE considerando antigüedad mínima de un año).
+
+**26. (MC)** El Personal Afectado es la persona que:
+a) Aísla las fuentes de energía b) **Opera o tiene a su cargo el equipo en el que se va a ejecutar un trabajo** c) Coloca la tarjeta de CBE d) Retira los candados
+**Respuesta: b.** Diapositiva "Personal Afectado".
+
+**27. (V/F)** El Personal Afectado autoriza la detención y aislamiento del equipo, detiene los equipos a intervenir y realiza la prueba de arranque de su equipo cuando la solicita el CBE o el Personal Autorizado.
+**Respuesta: V.** Diapositiva "Personal Afectado".
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
