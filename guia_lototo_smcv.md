@@ -223,6 +223,12 @@ Riesgo potencial: "Liberación descontrolada de Energía."
 
 > ⚠️ Igual que en bloqueo simple, la diapositiva pone la Prueba de arranque (4) antes del Drenaje (5). El estándar (6.5.3, p. 7–8) ordena: notificar y coordinar → aislar → bloquear (el CBE coloca dispositivo, candado y tarjeta de CBE) → **drenar o disipar energía remanente** → **ejecutar prueba de arranque** → el personal autorizado coloca su candado y tarjeta personal en la caja. Como las dos diapositivas del instructor coinciden entre sí, confirma con él cuál orden toma el examen.
 
+**Etapa 2: Aislamiento de fuentes de energía (diapositiva n.º 33 del curso, textual):**
+> 1) **Personal calificado:** "Solicita al 'Personal Afectado' la detención del equipo."
+> 2) **Personal afectado:** "Identifica el equipo solicitado, detiene o verifica que esté detenido y da pase para el aislamiento."
+> 3) **Personal calificado:** "Verifica que el equipo solicitado ya esté detenido y luego procede a aislar las fuentes de energía."
+> 4) **CBE:** "Verifica que el punto de bloqueo sea el correcto, coloca el dispositivo de bloqueo en el dispositivo de aislamiento."
+
 **Etapa 1: Notificación – Bloqueo Grupal (diapositiva n.º 32 del curso, textual):**
 > **CBE**
 > 1) "Completa el 'Formato de CBE' y 'Tarjetas CBE'."
@@ -407,6 +413,17 @@ a) Coloca su candado personal en la caja b) **Completa el Formato de CBE y las T
 
 **42. (V/F)** Si existe un Plan de bloqueo, ya no es necesario identificar las fuentes de energía en campo.
 **Respuesta: F.** "El Plan de bloqueo *no elimina* la identificación de fuentes de energía que se debe realizar en campo (IPERC Continuo, Formato de CBE)." (diap. 8)
+
+**43. (MC)** En el aislamiento de fuentes de energía (bloqueo grupal), ¿quién verifica que el punto de bloqueo sea el correcto y coloca el dispositivo de bloqueo en el dispositivo de aislamiento?
+a) El personal calificado b) El personal afectado c) **El CBE** d) El supervisor senior
+**Respuesta: c.** Diapositiva n.º 33, paso 4.
+
+**44. (MC)** ¿Quién da el pase para el aislamiento después de detener o verificar que el equipo esté detenido?
+a) El CBE b) **El personal afectado** c) El personal calificado d) El personal autorizado
+**Respuesta: b.** Diapositiva n.º 33, paso 2: "Identifica el equipo solicitado, detiene o verifica que esté detenido y da pase para el aislamiento."
+
+**45. (V/F)** El personal calificado procede a aislar las fuentes de energía sin verificar si el equipo ya está detenido.
+**Respuesta: F.** Primero "verifica que el equipo solicitado ya esté detenido y luego procede a aislar las fuentes de energía." (diap. 33, paso 3)
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
