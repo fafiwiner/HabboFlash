@@ -210,7 +210,12 @@ Riesgo potencial: "Liberación descontrolada de Energía."
 > 3) "*Ejecución* del bloqueo"
 
 **Planificación (estándar):** entender el alcance; asignar CBE y personal calificado; identificar fuentes/puntos de bloqueo (planos, etiquetado); el CBE define secuencia de bloqueo; reunir dispositivos y materiales.
-**Bloqueo simple:** notificar/coordinar con el afectado → aislar (el calificado solicita la detención al afectado, confirma y aísla) → el autorizado coloca su dispositivo de bloqueo, candado y tarjeta personal → drenar/disipar energía remanente → ejecutar prueba de arranque → colocar bloqueo de personal autorizado. *Bloqueos simples adicionales:* otra persona autorizada sigue todos los pasos **excepto la prueba de arranque**, que de requerirse se coordina con todos los que ya bloquearon.
+**Fase 2: Ejecución (Bloqueo Simple) (diapositiva del curso, textual; el inicio del título "[Fa]se" estaba tapado en la foto):**
+> Las 6 etapas, en el orden numerado de la diapositiva: **1** Notificación y coordinación → **2** Aislamiento → **3** Colocación → **4** Bloqueo → **5** Prueba de arranque → **6** Drenaje.
+
+> ⚠️ **Ojo con el orden:** en la diapositiva, la Prueba de arranque (5) va antes del Drenaje (6). En el estándar (6.5.2, p. 7) el orden es: notificar y coordinar → aislar → bloquear → **drenar o disipar energía remanente** → **ejecutar prueba de arranque** → colocar bloqueo de personal autorizado. Si el examen pregunta el orden, usa el de la diapositiva del instructor y confírmalo con él; el estándar pone el drenaje antes de la prueba de arranque.
+
+**Bloqueo simple (estándar):** notificar/coordinar con el afectado → aislar (el calificado solicita la detención al afectado, confirma y aísla) → el autorizado coloca su dispositivo de bloqueo, candado y tarjeta personal → drenar/disipar energía remanente → ejecutar prueba de arranque → colocar bloqueo de personal autorizado. *Bloqueos simples adicionales:* otra persona autorizada sigue todos los pasos **excepto la prueba de arranque**, que de requerirse se coordina con todos los que ya bloquearon.
 **Bloqueo grupal:** igual, pero el **CBE** coordina, coloca dispositivo de bloqueo, candado y tarjeta de CBE, coordina el drenaje y las pruebas de arranque; luego cada autorizado coloca su candado y tarjeta personal en la caja. Si el CBE participa de la tarea, también coloca su tarjeta y candado personal. Quien se une a un bloqueo ya armado debe solicitar autorización al personal autorizado (simple) o al CBE (grupal), "quién debe verificar si los puntos de bloqueo son los correctos."
 
 ### Capacitación (7 – p. 8)
@@ -354,6 +359,13 @@ a) El CBE b) El supervisor c) **El supervisor senior** d) El personal afectado
 
 **34. (V/F)** En bloqueo simple, quien identifica las fuentes de energía, prepara los dispositivos y ejecuta el bloqueo es el Personal Autorizado; en bloqueo grupal, es el CBE.
 **Respuesta: V.** Diapositiva "Planificación", columna 2: "CBE (B. Grupal)/P. Autorizado (B. Simple)".
+
+**35. (MC)** Según la diapositiva "Ejecución (Bloqueo Simple)", ¿cuál es la primera etapa?
+a) Aislamiento b) Bloqueo c) **Notificación y coordinación** d) Prueba de arranque
+**Respuesta: c.** Etapa 1 de las 6 de la diapositiva. Coincide con el estándar (6.5.2, p. 7): "Notificar y Coordinar con el afectado / Obtener permiso / Coordinar con el Calificado".
+
+**36. (V/F)** La Ejecución del Bloqueo Simple tiene 6 etapas: notificación y coordinación, aislamiento, colocación, bloqueo, prueba de arranque y drenaje.
+**Respuesta: V** según la diapositiva del curso. *(El estándar pone el drenaje antes de la prueba de arranque; ver nota en la sección 5.)*
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
