@@ -43,6 +43,10 @@ Las citas entre comillas son textuales del estándar. Lo que va fuera de comilla
 
 **Persona autorizada / Personal autorizado (6.3.4):** "Persona que bloquea y etiqueta dispositivos de aislamiento para realizar servicio o mantenimiento." Realiza trabajos en el equipo bloqueado o en su zona de influencia ("aquella en la que hay exposición a riesgos asociados al funcionamiento de un equipo"); "debe mantener el control de la llave de su candado"; es "responsable de devolver el equipo a condiciones de servicio antes de retirar cualquier dispositivo de aislamiento de energía o candado"; apoya al CBE; al culminar retira su candado y tarjeta y, en bloqueo grupal, firma la lista del Formato de bloqueo de energía. "Personal autorizado puede realizar un bloqueo sin que sea necesaria la participación de un CBE cuando exista un solo punto de bloqueo." Toda persona autorizada "se reserva el derecho de verificar el aislamiento despejando el área e intentado encender el equipo."
 
+**Líder de Personal Autorizado (diapositiva del curso, textual):**
+> "*Personal Autorizado* acreditado en Lototo, *designado por el supervisor* del equipo de trabajo, quien debe *realizar la prueba de arranque con el CBE* y *firmar el formato de CBE* en señal de conformidad."
+> **¡IMPORTANTE!** "Puede ser personal de SMCV o personal de empresa contratista."
+
 **Persona afectada (6.3.5):** "Persona que opera o usa el equipo que va a recibir mantenimiento. No realiza trabajos en el equipo que está bloqueado. Incluye personal que está presente en el área de trabajo."
 
 **Superintendente del área (p. 3):** asegura la correcta aplicación; "tener y aprobar una lista de su área de trabajo designando a los CBE y Personal Calificado tomando en cuenta antigüedad mínima un año de experiencia y conocimiento del área."
@@ -253,6 +257,19 @@ a) Retirar candados → notificar → inspeccionar → restaurar b) **Inspeccion
 **Respuesta: b.** 6.6, p. 8.
 
 ---
+
+### Preguntas adicionales (respaldadas por diapositivas del curso)
+
+**21. (MC)** El Líder de Personal Autorizado es designado por:
+a) El CBE b) **El supervisor del equipo de trabajo** c) El superintendente de seguridad d) Los propios trabajadores
+**Respuesta: b.** Diapositiva "Líder de Personal Autorizado": personal autorizado acreditado en Lototo, designado por el supervisor del equipo de trabajo.
+
+**22. (V/F)** El Líder de Personal Autorizado puede ser personal de una empresa contratista.
+**Respuesta: V.** "¡IMPORTANTE! Puede ser personal de SMCV o personal de empresa contratista."
+
+**23. (MC)** El Líder de Personal Autorizado debe:
+a) Reemplazar al CBE b) **Realizar la prueba de arranque con el CBE y firmar el formato de CBE en señal de conformidad** c) Retirar los candados ajenos d) Elaborar el Plan de bloqueo
+**Respuesta: b.** Misma diapositiva.
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
