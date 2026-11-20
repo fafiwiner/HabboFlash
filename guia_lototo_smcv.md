@@ -180,6 +180,21 @@ Registro (p. 9): "Formato de Autorización para el retiro o corte de un candado 
 
 > La única diferencia entre los dos casos es el paso 3: si el personal está presente (solo perdió la llave) no se completa el formato; si no está presente pero es ubicado, sí se completa.
 
+**Corte de candado – personal o CBE no ubicado (diapositiva n.º 44 del curso, textual):**
+
+**¿Qué hacer cuando el personal no es ubicado?**
+1° "Revisar la información del bloqueo y tarjeteo en el 'Formato de CBE'."
+2° "Realizar esfuerzos razonables para contactar con el empleado por teléfono, radio u otros medios."
+3° "Inspeccionar exhaustivamente interna y externa el equipo verificando que el propietario no se encuentre."
+4° "Comunicar al Supervisor SSO de turno para coordinar los controles a implementar antes del corte."
+5° "Completar el 'Formato de corte' y proceder con el corte."
+6° "Comunicar al trabajador cuando regrese a la operación que su candado fue retirado."
+
+**¿Qué hacer cuando el CBE no es ubicado?**
+1° "Verificar que no se tengan candados personales en la caja de bloqueo."
+2° "Realizar una inspección exhaustiva interna y externa del equipo."
+3° "Completar el formato y coordinar el corte del candado con el supervisor del trabajo."
+
 ### 4.7 Restauración de energía (6.6 – p. 8)
 1. **Inspeccionar el área:** sin personas, herramientas ni equipos; protectores/guardas reinstalados; equipo operacionalmente intacto.
 2. **Retirar todos los bloqueos (candados).**
@@ -453,6 +468,20 @@ a) Coloca su candado personal en la caja b) **Coloca su candado y tarjeta de CBE
 **49. (MC)** En un corte de candado, el primer paso es:
 a) Cortar el candado de inmediato b) **El Supervisor responsable del corte de candado comunica al Supervisor SSO** c) Completar el formato d) Avisar a Recursos Humanos
 **Respuesta: b.** Diapositiva n.º 43, paso 1° (en ambos casos). El paso 2° es comunicar al personal que se cortará su candado, dando su conformidad.
+
+**50. (MC)** Cuando el personal no es ubicado, ¿cuál es el primer paso para el corte de candado?
+a) Completar el formato de corte b) Comunicar al supervisor SSO c) **Revisar la información del bloqueo y tarjeteo en el Formato de CBE** d) Cortar el candado
+**Respuesta: c.** Diapositiva n.º 44, 1°.
+
+**51. (V/F)** Cuando el personal no es ubicado, se deben realizar esfuerzos razonables para contactarlo por teléfono, radio u otros medios.
+**Respuesta: V.** Diapositiva n.º 44, 2° (y Formato 02 del estándar: esfuerzo para contactar al propietario).
+
+**52. (V/F)** Después del corte, se debe comunicar al trabajador, cuando regrese a la operación, que su candado fue retirado.
+**Respuesta: V.** Diapositiva n.º 44, 6° (coincide con la notificación del Formato 02: antes de que retome el trabajo).
+
+**53. (MC)** Cuando el CBE no es ubicado, el primer paso es:
+a) Completar el formato b) **Verificar que no se tengan candados personales en la caja de bloqueo** c) Coordinar con el supervisor SSO d) Retirar la tarjeta de CBE
+**Respuesta: b.** Diapositiva n.º 44. Luego: inspección exhaustiva interna y externa del equipo, completar el formato y coordinar el corte del candado con el supervisor del trabajo.
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
