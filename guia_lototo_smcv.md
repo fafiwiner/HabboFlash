@@ -215,6 +215,11 @@ Riesgo potencial: "Liberación descontrolada de Energía."
 
 > ⚠️ **Ojo con el orden:** en la diapositiva, la Prueba de arranque (5) va antes del Drenaje (6). En el estándar (6.5.2, p. 7) el orden es: notificar y coordinar → aislar → bloquear → **drenar o disipar energía remanente** → **ejecutar prueba de arranque** → colocar bloqueo de personal autorizado. Si el examen pregunta el orden, usa el de la diapositiva del instructor y confírmalo con él; el estándar pone el drenaje antes de la prueba de arranque.
 
+**Etapa 1: Notificación y Coordinación – Bloqueo Simple (diapositiva del curso, textual):**
+> **Personal Autorizado**
+> 1) "Notifica y coordina con el 'Personal Afectado' la detención del equip[o]" *(última letra tapada por una cabeza en la foto)*.
+> 2) "Coordina la participación del 'Personal Calificado'."
+
 **Bloqueo simple (estándar):** notificar/coordinar con el afectado → aislar (el calificado solicita la detención al afectado, confirma y aísla) → el autorizado coloca su dispositivo de bloqueo, candado y tarjeta personal → drenar/disipar energía remanente → ejecutar prueba de arranque → colocar bloqueo de personal autorizado. *Bloqueos simples adicionales:* otra persona autorizada sigue todos los pasos **excepto la prueba de arranque**, que de requerirse se coordina con todos los que ya bloquearon.
 **Bloqueo grupal:** igual, pero el **CBE** coordina, coloca dispositivo de bloqueo, candado y tarjeta de CBE, coordina el drenaje y las pruebas de arranque; luego cada autorizado coloca su candado y tarjeta personal en la caja. Si el CBE participa de la tarea, también coloca su tarjeta y candado personal. Quien se une a un bloqueo ya armado debe solicitar autorización al personal autorizado (simple) o al CBE (grupal), "quién debe verificar si los puntos de bloqueo son los correctos."
 
@@ -366,6 +371,10 @@ a) Aislamiento b) Bloqueo c) **Notificación y coordinación** d) Prueba de arra
 
 **36. (V/F)** La Ejecución del Bloqueo Simple tiene 6 etapas: notificación y coordinación, aislamiento, colocación, bloqueo, prueba de arranque y drenaje.
 **Respuesta: V** según la diapositiva del curso. *(El estándar pone el drenaje antes de la prueba de arranque; ver nota en la sección 5.)*
+
+**37. (MC)** En la etapa de Notificación y Coordinación del bloqueo simple, el Personal Autorizado:
+a) Aísla la fuente de energía b) **Notifica y coordina con el Personal Afectado la detención del equipo y coordina la participación del Personal Calificado** c) Realiza el drenaje d) Firma el formato de CBE
+**Respuesta: b.** Diapositiva "Notificación y Coordinación". Coincide con el estándar (6.5.2, p. 7).
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
