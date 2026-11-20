@@ -164,6 +164,12 @@ Deben estar identificadas; implementar estaciones fijas de bloqueo ubicadas "en 
 - "Ninguna persona autorizada nueva se unirá a LOTOTO en proceso hasta que se complete el relevo de CBE y se haya devuelto el formato."
 - Quienes ya firmaron la lista individual "pueden continuar el trabajo mientras la transferencia de CBE está en proceso."
 
+**Relevo CBE (diapositiva n.º 46 del curso, textual):**
+> ✓ "El CBE saliente y entrante deben relevarse los detalles del trabajo y el bloqueo."
+> ✓ "El CBE entrante podría verificar durante su turno los puntos de bloqueo a su cargo."
+> ✓ "Cuando no sea factible que el CBE saliente le entregue la llave y el formato de CBE al CBE entrante, esta llave junto con el formato deberá ser entregados al supervisor o líder a cargo detallando el trabajo pendiente y el bloqueo de los equipos. El supervisor entregará la llave y formato al CBE entrante detallando el trabajo pendiente y los puntos de bloqueo aislados."
+> ✓ "El CBE entrante agregará su información al formato de CBE en los campos necesarios."
+
 ### 4.6 Corte de candado = retiro forzado (6.7 – p. 8, Formato 02 – p. 15)
 > "Si un personal autorizado no está disponible para retirar su Candado de bloqueo o no se puede identificar al propietario de un dispositivo de bloqueo se puede eliminar el bloqueo usando el formato de corte de candado de bloqueo."
 
@@ -482,6 +488,16 @@ a) Completar el formato de corte b) Comunicar al supervisor SSO c) **Revisar la 
 **53. (MC)** Cuando el CBE no es ubicado, el primer paso es:
 a) Completar el formato b) **Verificar que no se tengan candados personales en la caja de bloqueo** c) Coordinar con el supervisor SSO d) Retirar la tarjeta de CBE
 **Respuesta: b.** Diapositiva n.º 44. Luego: inspección exhaustiva interna y externa del equipo, completar el formato y coordinar el corte del candado con el supervisor del trabajo.
+
+**54. (MC)** Cuando no es factible que el CBE saliente entregue la llave y el formato de CBE al CBE entrante, estos deben entregarse:
+a) Al personal afectado b) Al personal calificado c) **Al supervisor o líder a cargo, detallando el trabajo pendiente y el bloqueo de los equipos** d) Se retira el bloqueo
+**Respuesta: c.** Diapositiva n.º 46 "Relevo CBE". El supervisor luego entrega la llave y el formato al CBE entrante, detallando el trabajo pendiente y los puntos de bloqueo aislados.
+
+**55. (V/F)** El CBE entrante agregará su información al formato de CBE en los campos necesarios.
+**Respuesta: V.** Diapositiva n.º 46 y estándar 6.3.2 (p. 4).
+
+**56. (V/F)** En el relevo, el CBE saliente y el entrante deben relevarse los detalles del trabajo y el bloqueo.
+**Respuesta: V.** Diapositiva n.º 46. El estándar (p. 5) añade que deben confirmarlo verbalmente y pueden confirmar visualmente los dispositivos de bloqueo en uso.
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
