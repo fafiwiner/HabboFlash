@@ -220,6 +220,13 @@ Riesgo potencial: "Liberación descontrolada de Energía."
 
 > ⚠️ Igual que en bloqueo simple, la diapositiva pone la Prueba de arranque (4) antes del Drenaje (5). El estándar (6.5.3, p. 7–8) ordena: notificar y coordinar → aislar → bloquear (el CBE coloca dispositivo, candado y tarjeta de CBE) → **drenar o disipar energía remanente** → **ejecutar prueba de arranque** → el personal autorizado coloca su candado y tarjeta personal en la caja. Como las dos diapositivas del instructor coinciden entre sí, confirma con él cuál orden toma el examen.
 
+**Etapa 1: Notificación – Bloqueo Grupal (diapositiva n.º 32 del curso, textual):**
+> **CBE**
+> 1) "Completa el 'Formato de CBE' y 'Tarjetas CBE'."
+> 2) "Coordina con el 'Personal Afectado' la detención del equipo."
+> 3) "Coordina la participación del 'Personal Calificado' en el proceso."
+> 4) "Indica al 'Personal Calificado' los puntos a aislar de acuerdo al 'Formato de CBE'."
+
 **Etapa 1: Notificación y Coordinación – Bloqueo Simple (diapositiva del curso, textual):**
 > **Personal Autorizado**
 > 1) "Notifica y coordina con el 'Personal Afectado' la detención del equip[o]" *(última letra tapada por una cabeza en la foto)*.
@@ -387,6 +394,13 @@ a) Drenaje b) Prueba de arranque c) **Candado y tarjeta personal** d) Aislamient
 
 **39. (V/F)** En bloqueo grupal, la etapa 3 es "Bloqueo y tarjeteo", y en el estándar es el CBE quien coloca el dispositivo de bloqueo, el candado y la tarjeta de CBE.
 **Respuesta: V.** Diapositiva n.º 31 y estándar 6.5.3 (p. 8).
+
+**40. (MC)** En la etapa de Notificación del bloqueo grupal, el CBE:
+a) Coloca su candado personal en la caja b) **Completa el Formato de CBE y las Tarjetas CBE, coordina con el Personal Afectado y el Personal Calificado, e indica al Personal Calificado los puntos a aislar según el Formato de CBE** c) Realiza el drenaje d) Opera el equipo
+**Respuesta: b.** Diapositiva n.º 32 "Notificación".
+
+**41. (V/F)** En bloqueo grupal, quien indica los puntos a aislar al Personal Calificado es el Personal Afectado.
+**Respuesta: F.** Es el CBE, de acuerdo con el Formato de CBE (diap. 32).
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
