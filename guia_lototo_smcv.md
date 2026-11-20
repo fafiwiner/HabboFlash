@@ -47,6 +47,17 @@ Las citas entre comillas son textuales del estándar. Lo que va fuera de comilla
 > "*Personal Autorizado* acreditado en Lototo, *designado por el supervisor* del equipo de trabajo, quien debe *realizar la prueba de arranque con el CBE* y *firmar el formato de CBE* en señal de conformidad."
 > **¡IMPORTANTE!** "Puede ser personal de SMCV o personal de empresa contratista."
 
+*(La diapositiva "Líder de Personal Autorizado" es la n.º 15 del PPT del curso.)*
+
+**Notas del instructor en pantalla (hoja de Excel proyectada, transcripción literal):**
+- "supervisor determina tipo de bloqueo: Bloqueo simple o bloqueo grupa[l]"
+- Encabezados de columnas: "LPA", "SMCV", "CBE" (LPA = Líder de Personal Autorizado, según la diapositiva 15; la hoja no lo desarrolla).
+- "P. autorizado trabajo, candado y tarjeta personal" (en la fila aparece "LPA" bajo la columna CBE; la foto no permite saber con certeza cómo se asignan las filas a las columnas).
+- "CBE responsable, tarjeta CBE, Formato CBE"
+- "P. autorizado designado por supervisor"
+- "P. afectado opera, a cargo del equipo"
+- "P. calificado aisla, repone, disipa"
+
 **Persona afectada (6.3.5):** "Persona que opera o usa el equipo que va a recibir mantenimiento. No realiza trabajos en el equipo que está bloqueado. Incluye personal que está presente en el área de trabajo."
 
 **Superintendente del área (p. 3):** asegura la correcta aplicación; "tener y aprobar una lista de su área de trabajo designando a los CBE y Personal Calificado tomando en cuenta antigüedad mínima un año de experiencia y conocimiento del área."
