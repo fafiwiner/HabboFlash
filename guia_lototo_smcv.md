@@ -80,6 +80,9 @@ Las citas entre comillas son textuales del estándar. Lo que va fuera de comilla
 **Superintendente del área (p. 3):** asegura la correcta aplicación; "tener y aprobar una lista de su área de trabajo designando a los CBE y Personal Calificado tomando en cuenta antigüedad mínima un año de experiencia y conocimiento del área."
 **Supervisor (p. 3):** designa al CBE de la lista (o, si el bloqueo es simple, al personal autorizado que lidera el bloqueo) y "definir la aplicación y dispositivos de bloqueo simple o grupal."
 
+**Supervisor (diapositiva n.º 19 del curso, textual):**
+> ✓ "Cuando se requiera el *apoyo de un CBE de otra área*, el SUPERVISOR debe encargarse de realizar una capacitación presencial previa en los puntos de bloqueo de el (los) equipo(s), sistema(s) para el trabajo específico. El tiempo de capacitación será *como mínimo de 5 horas*, este tiempo puede ser mayor de acuerdo con la complejidad del bloqueo u otras consideraciones que tenga en cuenta el supervisor. Se deberá tener un registro de la capacitación brindada."
+
 **Funciones del CBE (6.3.2 – p. 4):** asignado por el supervisor con "plena responsabilidad por el proceso de bloqueo"; capacitado y competente; lidera la identificación de fuentes de energía y de puntos de bloqueo (PETS, ATS, IPERC continuo, planos unifilares); define si se requiere drenaje; define necesidad de personas calificadas; "junto con la persona calificada, aísla y bloquea todas las fuentes de energía peligrosas utilizando los candados y tarjetas de CBE"; mantiene lista de puntos de bloqueo y responsables; "Las llaves de los candados usados por el CBE para aislar las fuentes de energía se deben colocar dentro de una caja grupal la cual será cerrada con un candado y tarjeta de CBE. **El CBE coloca el primer bloqueo y retira el último bloqueo de la caja de bloqueo grupal.**" "**El bloqueo de CBE no es un bloqueo personal.** El CBE debe aplicar su bloqueo y tarjeta personal al dispositivo de bloqueo de grupo si está realizando trabajos en el proceso/equipo." "Para trabajos complejos pueden ser necesarios múltiples CBE." Gestiona cambios de turno y la puesta en funcionamiento.
 
 ---
@@ -321,8 +324,16 @@ a) Opera el equipo b) **Realiza el aislamiento y la disipación de energía (en 
 **29. (V/F)** El Personal Calificado debe tener vigente el curso de Lototo y es responsable de verificar la efectividad del aislamiento de energía.
 **Respuesta: V.** Diapositiva "Personal Calificado" y estándar 6.3.3 (p. 5).
 
+**30. (MC)** Cuando se requiere el apoyo de un CBE de otra área, el supervisor debe realizar una capacitación presencial previa en los puntos de bloqueo, de duración mínima:
+a) 1 hora b) 2 horas c) **5 horas** d) 8 horas
+**Respuesta: c.** Diapositiva "Supervisor" (n.º 19): "como mínimo de 5 horas", pudiendo ser mayor según la complejidad del bloqueo.
+
+**31. (V/F)** La capacitación al CBE de otra área no requiere registro.
+**Respuesta: F.** "Se deberá tener un registro de la capacitación brindada." (diap. 19)
+
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
+- Capacitación previa al CBE de otra área: **mínimo 5 horas**, presencial, con registro (diap. 19).
 - Antigüedad mínima para ser CBE/Personal calificado en la lista del superintendente: **1 año**.
 - Capacitación: inicial y **refrescamiento anual**.
 - Conservación: tarjetas de CBE **1 mes**; formato de corte de candado **1 año**; tarjetas de bloqueo y formato CBE **permanente**.
