@@ -41,6 +41,12 @@ Las citas entre comillas son textuales del estándar. Lo que va fuera de comilla
 
 **Persona calificada (6.3.3):** "Persona que puede o no estar trabajando en el equipo bloqueado, pero que tiene las calificaciones para realizar el aislamiento de energía para el sistema específico que se está desenergizando." Debe seguir procedimientos seguros de desenergización, aislamiento y liberación de energía; es "responsable de verificar la efectividad del aislamiento de energía y la realización de pruebas de arranque"; apoya al CBE. "En caso de personal de EE.CC debe existir una lista de personal calificado con la validación del Gerente General del Área."
 
+**Personal Calificado (diapositiva n.º 18 del curso, textual):**
+> "Persona capacitada que conoce los sistemas/equipos donde se realizará el bloqueo, es la persona que realiza el aislamiento y disipación de energía (En caso aplique)."
+> ✓ "Tener vigente el curso de Lototo."
+> ✓ "Debe seguir procedimientos seguros para el aislamiento y la liberación de energía (Drenaje)."
+> ✓ "Responsable de verificar la efectividad del aislamiento de energía."
+
 **Persona autorizada / Personal autorizado (6.3.4):** "Persona que bloquea y etiqueta dispositivos de aislamiento para realizar servicio o mantenimiento." Realiza trabajos en el equipo bloqueado o en su zona de influencia ("aquella en la que hay exposición a riesgos asociados al funcionamiento de un equipo"); "debe mantener el control de la llave de su candado"; es "responsable de devolver el equipo a condiciones de servicio antes de retirar cualquier dispositivo de aislamiento de energía o candado"; apoya al CBE; al culminar retira su candado y tarjeta y, en bloqueo grupal, firma la lista del Formato de bloqueo de energía. "Personal autorizado puede realizar un bloqueo sin que sea necesaria la participación de un CBE cuando exista un solo punto de bloqueo." Toda persona autorizada "se reserva el derecho de verificar el aislamiento despejando el área e intentado encender el equipo."
 
 **Coordinador de Bloqueo de Energía – CBE (diapositiva del curso, textual):**
@@ -307,6 +313,13 @@ a) Aísla las fuentes de energía b) **Opera o tiene a su cargo el equipo en el 
 
 **27. (V/F)** El Personal Afectado autoriza la detención y aislamiento del equipo, detiene los equipos a intervenir y realiza la prueba de arranque de su equipo cuando la solicita el CBE o el Personal Autorizado.
 **Respuesta: V.** Diapositiva "Personal Afectado".
+
+**28. (MC)** El Personal Calificado es la persona que:
+a) Opera el equipo b) **Realiza el aislamiento y la disipación de energía (en caso aplique) y conoce los sistemas/equipos donde se realizará el bloqueo** c) Elabora el Plan de bloqueo d) Lidera el bloqueo grupal
+**Respuesta: b.** Diapositiva "Personal Calificado".
+
+**29. (V/F)** El Personal Calificado debe tener vigente el curso de Lototo y es responsable de verificar la efectividad del aislamiento de energía.
+**Respuesta: V.** Diapositiva "Personal Calificado" y estándar 6.3.3 (p. 5).
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
