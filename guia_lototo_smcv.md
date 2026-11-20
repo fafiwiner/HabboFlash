@@ -83,6 +83,13 @@ Basado en las definiciones textuales de la sección 2 (pp. 2–3).
 - "Solo debe usarse para el bloqueo (Lototo)."
 - "Los candados deben ser resistentes y de una sola llave."
 
+**Diapositiva del curso "Candado de bloqueo personal: EECC"** (textual):
+- ✓ Resistentes.
+- ✓ Fácil instalación en los dispositivos de bloqueo.
+- ✓ Distintos al candado de SMCV.
+- ✓ Llave única.
+- ✓ Bajo control exclusivo del empleado que colocó el candado.
+
 ### 4.2 Tarjetas (6.4.2 – p. 6)
 - Deben soportar 50 libras (23 kg) de fuerza.
 - Tener los datos de la persona que bloquea (nombres y apellidos).
