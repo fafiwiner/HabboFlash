@@ -196,7 +196,20 @@ Riesgo potencial: "Liberación descontrolada de Energía."
 - Si no se puede cumplir el estándar: proceso de variación; o aplicar el Estándar de Control de Energías Peligrosas; otros métodos (p. ej., alta tensión) requieren PETS específico.
 
 ### Proceso de bloqueo (6.5 – pp. 7–8)
-**Planificación:** entender el alcance; asignar CBE y personal calificado; identificar fuentes/puntos de bloqueo (planos, etiquetado); el CBE define secuencia de bloqueo; reunir dispositivos y materiales.
+**Planificación (diapositiva n.º 21 del curso, textual):**
+> **1 – Supervisor:**
+> 1) "*Asigna* el responsable para cada bloqueo."
+> 2) "*Define* el tipo de bloqueo (simple o grupal)"
+> 3) "*Actividades complejas:*"
+> ✓ "*Supervisor:* Junto con el CBE elaboran el 'Plan de bloqueo' y lo difunden."
+> ✓ "*Supervisor senior:* Revisa y aprueba el plan."
+>
+> **2 – CBE (B. Grupal) / P. Autorizado (B. Simple):**
+> 1) "*Identifica* fuentes de energías."
+> 2) "*Preparación* de dispositivos y accesorios de bloqueo."
+> 3) "*Ejecución* del bloqueo"
+
+**Planificación (estándar):** entender el alcance; asignar CBE y personal calificado; identificar fuentes/puntos de bloqueo (planos, etiquetado); el CBE define secuencia de bloqueo; reunir dispositivos y materiales.
 **Bloqueo simple:** notificar/coordinar con el afectado → aislar (el calificado solicita la detención al afectado, confirma y aísla) → el autorizado coloca su dispositivo de bloqueo, candado y tarjeta personal → drenar/disipar energía remanente → ejecutar prueba de arranque → colocar bloqueo de personal autorizado. *Bloqueos simples adicionales:* otra persona autorizada sigue todos los pasos **excepto la prueba de arranque**, que de requerirse se coordina con todos los que ya bloquearon.
 **Bloqueo grupal:** igual, pero el **CBE** coordina, coloca dispositivo de bloqueo, candado y tarjeta de CBE, coordina el drenaje y las pruebas de arranque; luego cada autorizado coloca su candado y tarjeta personal en la caja. Si el CBE participa de la tarea, también coloca su tarjeta y candado personal. Quien se une a un bloqueo ya armado debe solicitar autorización al personal autorizado (simple) o al CBE (grupal), "quién debe verificar si los puntos de bloqueo son los correctos."
 
@@ -330,6 +343,17 @@ a) 1 hora b) 2 horas c) **5 horas** d) 8 horas
 
 **31. (V/F)** La capacitación al CBE de otra área no requiere registro.
 **Respuesta: F.** "Se deberá tener un registro de la capacitación brindada." (diap. 19)
+
+**32. (MC)** En la etapa de Planificación, ¿quién define el tipo de bloqueo (simple o grupal)?
+a) El CBE b) **El supervisor** c) El personal calificado d) El supervisor senior
+**Respuesta: b.** Diapositiva "Planificación" (n.º 21): el supervisor asigna el responsable para cada bloqueo y define el tipo de bloqueo.
+
+**33. (MC)** En actividades complejas, ¿quién revisa y aprueba el Plan de bloqueo?
+a) El CBE b) El supervisor c) **El supervisor senior** d) El personal afectado
+**Respuesta: c.** El supervisor, junto con el CBE, elabora el Plan de bloqueo y lo difunde; el supervisor senior lo revisa y aprueba (diap. 21).
+
+**34. (V/F)** En bloqueo simple, quien identifica las fuentes de energía, prepara los dispositivos y ejecuta el bloqueo es el Personal Autorizado; en bloqueo grupal, es el CBE.
+**Respuesta: V.** Diapositiva "Planificación", columna 2: "CBE (B. Grupal)/P. Autorizado (B. Simple)".
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
