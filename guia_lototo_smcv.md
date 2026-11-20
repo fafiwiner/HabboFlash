@@ -170,6 +170,16 @@ Deben estar identificadas; implementar estaciones fijas de bloqueo ubicadas "en 
 Formato 02: checklist (revisar info del bloqueo y tarjeta en formato CBE; inspección exhaustiva del equipo; verificar tierras temporales y dispositivos retirados; área libre de herramientas y materiales; equipo en condiciones operativas; guardas reinstaladas; personal despejado). Si el propietario **no** es contactado: registrar esfuerzo de contacto (¿por quién?, ¿cuándo?, ubicación del propietario) y **autorización verbal del Supervisor Senior o Superintendente**; contactar a Supervisor del Área, Personal Calificado, CBE (si aplica) y Salud & Seguridad. Notificación: "El empleado ha sido notificado de la eliminación de su dispositivo de bloqueo **antes de que retome al trabajo**." Entregar el documento al Superintendente de Área o responsable.
 Registro (p. 9): "Formato de Autorización para el retiro o corte de un candado personal": responsable Supervisor del área (copia 1 Salud y Seguridad, copia 2 Recursos Humanos, Administrador de Contratos solo contratistas); conservación **1 año**.
 
+**Corte de candado (diapositiva n.º 43 del curso, textual):**
+
+| ¿Qué hacer cuando el personal está presente pero no encuentra la llave de su candado? | ¿Qué hacer cuando el personal no está presente pero es ubicado? |
+|---|---|
+| 1° Supervisor responsable del corte de candado comunica al Supervisor SSO. | 1° Supervisor responsable del corte de candado comunica al Supervisor SSO. |
+| 2° Comunica al personal que se realizará el corte de su candado, dando su conformidad. | 2° Comunica al personal que se realizará el corte de su candado, dando su conformidad. |
+| 3° **No** se completará el formato de corte de candado. | 3° **Se debe** completar el formato de corte de candado. |
+
+> La única diferencia entre los dos casos es el paso 3: si el personal está presente (solo perdió la llave) no se completa el formato; si no está presente pero es ubicado, sí se completa.
+
 ### 4.7 Restauración de energía (6.6 – p. 8)
 1. **Inspeccionar el área:** sin personas, herramientas ni equipos; protectores/guardas reinstalados; equipo operacionalmente intacto.
 2. **Retirar todos los bloqueos (candados).**
@@ -222,6 +232,11 @@ Riesgo potencial: "Liberación descontrolada de Energía."
 > Las 6 etapas, en el orden numerado de la diapositiva: **1** Notificación y coordinación → **2** Aislamiento → **3** Bloqueo y tarjeteo → **4** Prueba de arranque → **5** Drenaje → **6** Candado y tarjeta personal.
 
 > ⚠️ Igual que en bloqueo simple, la diapositiva pone la Prueba de arranque (4) antes del Drenaje (5). El estándar (6.5.3, p. 7–8) ordena: notificar y coordinar → aislar → bloquear (el CBE coloca dispositivo, candado y tarjeta de CBE) → **drenar o disipar energía remanente** → **ejecutar prueba de arranque** → el personal autorizado coloca su candado y tarjeta personal en la caja. Como las dos diapositivas del instructor coinciden entre sí, confirma con él cuál orden toma el examen.
+
+**Etapa 3: Bloqueo y Tarjeteo – Bloqueo Grupal (diapositiva n.º 34 del curso, textual):**
+> **CBE**
+> 1) "Coloca su 'candado' y 'tarjeta de CBE' en el dispositivo de bloqueo."
+> 2) "Cierra la caja de bloqueo con el 'candado' y 'tarjeta de CBE'."
 
 **Etapa 2: Aislamiento de fuentes de energía (diapositiva n.º 33 del curso, textual):**
 > 1) **Personal calificado:** "Solicita al 'Personal Afectado' la detención del equipo."
@@ -424,6 +439,20 @@ a) El CBE b) **El personal afectado** c) El personal calificado d) El personal a
 
 **45. (V/F)** El personal calificado procede a aislar las fuentes de energía sin verificar si el equipo ya está detenido.
 **Respuesta: F.** Primero "verifica que el equipo solicitado ya esté detenido y luego procede a aislar las fuentes de energía." (diap. 33, paso 3)
+
+**46. (MC)** En Bloqueo y Tarjeteo (bloqueo grupal), el CBE:
+a) Coloca su candado personal en la caja b) **Coloca su candado y tarjeta de CBE en el dispositivo de bloqueo y cierra la caja de bloqueo con el candado y tarjeta de CBE** c) Realiza el drenaje d) Aísla las fuentes de energía
+**Respuesta: b.** Diapositiva n.º 34.
+
+**47. (V/F)** Cuando el personal está presente pero no encuentra la llave de su candado, se debe completar el formato de corte de candado.
+**Respuesta: F.** "No se completará el formato de corte de candado." (diap. 43, columna izquierda)
+
+**48. (V/F)** Cuando el personal no está presente pero es ubicado, se debe completar el formato de corte de candado.
+**Respuesta: V.** "Se debe completar el formato de corte de candado." (diap. 43, columna derecha)
+
+**49. (MC)** En un corte de candado, el primer paso es:
+a) Cortar el candado de inmediato b) **El Supervisor responsable del corte de candado comunica al Supervisor SSO** c) Completar el formato d) Avisar a Recursos Humanos
+**Respuesta: b.** Diapositiva n.º 43, paso 1° (en ambos casos). El paso 2° es comunicar al personal que se cortará su candado, dando su conformidad.
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
