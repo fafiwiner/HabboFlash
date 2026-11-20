@@ -215,6 +215,11 @@ Riesgo potencial: "Liberación descontrolada de Energía."
 
 > ⚠️ **Ojo con el orden:** en la diapositiva, la Prueba de arranque (5) va antes del Drenaje (6). En el estándar (6.5.2, p. 7) el orden es: notificar y coordinar → aislar → bloquear → **drenar o disipar energía remanente** → **ejecutar prueba de arranque** → colocar bloqueo de personal autorizado. Si el examen pregunta el orden, usa el de la diapositiva del instructor y confírmalo con él; el estándar pone el drenaje antes de la prueba de arranque.
 
+**Fase 2: Ejecución (Bloqueo Grupal) (diapositiva n.º 31 del curso, textual):**
+> Las 6 etapas, en el orden numerado de la diapositiva: **1** Notificación y coordinación → **2** Aislamiento → **3** Bloqueo y tarjeteo → **4** Prueba de arranque → **5** Drenaje → **6** Candado y tarjeta personal.
+
+> ⚠️ Igual que en bloqueo simple, la diapositiva pone la Prueba de arranque (4) antes del Drenaje (5). El estándar (6.5.3, p. 7–8) ordena: notificar y coordinar → aislar → bloquear (el CBE coloca dispositivo, candado y tarjeta de CBE) → **drenar o disipar energía remanente** → **ejecutar prueba de arranque** → el personal autorizado coloca su candado y tarjeta personal en la caja. Como las dos diapositivas del instructor coinciden entre sí, confirma con él cuál orden toma el examen.
+
 **Etapa 1: Notificación y Coordinación – Bloqueo Simple (diapositiva del curso, textual):**
 > **Personal Autorizado**
 > 1) "Notifica y coordina con el 'Personal Afectado' la detención del equip[o]" *(última letra tapada por una cabeza en la foto)*.
@@ -375,6 +380,13 @@ a) Aislamiento b) Bloqueo c) **Notificación y coordinación** d) Prueba de arra
 **37. (MC)** En la etapa de Notificación y Coordinación del bloqueo simple, el Personal Autorizado:
 a) Aísla la fuente de energía b) **Notifica y coordina con el Personal Afectado la detención del equipo y coordina la participación del Personal Calificado** c) Realiza el drenaje d) Firma el formato de CBE
 **Respuesta: b.** Diapositiva "Notificación y Coordinación". Coincide con el estándar (6.5.2, p. 7).
+
+**38. (MC)** Según la diapositiva "Ejecución (Bloqueo Grupal)", la etapa 6 es:
+a) Drenaje b) Prueba de arranque c) **Candado y tarjeta personal** d) Aislamiento
+**Respuesta: c.** En el estándar (6.5.3): el personal autorizado coloca su candado y tarjeta personal en la caja de bloqueo grupal, siguiendo las indicaciones del CBE.
+
+**39. (V/F)** En bloqueo grupal, la etapa 3 es "Bloqueo y tarjeteo", y en el estándar es el CBE quien coloca el dispositivo de bloqueo, el candado y la tarjeta de CBE.
+**Respuesta: V.** Diapositiva n.º 31 y estándar 6.5.3 (p. 8).
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
