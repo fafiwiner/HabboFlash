@@ -43,6 +43,11 @@ Las citas entre comillas son textuales del estándar. Lo que va fuera de comilla
 
 **Persona autorizada / Personal autorizado (6.3.4):** "Persona que bloquea y etiqueta dispositivos de aislamiento para realizar servicio o mantenimiento." Realiza trabajos en el equipo bloqueado o en su zona de influencia ("aquella en la que hay exposición a riesgos asociados al funcionamiento de un equipo"); "debe mantener el control de la llave de su candado"; es "responsable de devolver el equipo a condiciones de servicio antes de retirar cualquier dispositivo de aislamiento de energía o candado"; apoya al CBE; al culminar retira su candado y tarjeta y, en bloqueo grupal, firma la lista del Formato de bloqueo de energía. "Personal autorizado puede realizar un bloqueo sin que sea necesaria la participación de un CBE cuando exista un solo punto de bloqueo." Toda persona autorizada "se reserva el derecho de verificar el aislamiento despejando el área e intentado encender el equipo."
 
+**Coordinador de Bloqueo de Energía – CBE (diapositiva del curso, textual):**
+> "Es quien *lidera* el proceso de bloqueo grupal."
+> **Requisitos:** "• Estar acreditado en LOTOTO y CBE. • 1 año como mínimo de experiencia [...] área de trabajo."
+> *(Una o dos palabras entre "experiencia" y "área de trabajo" quedaron tapadas por una cabeza en la foto. El estándar, p. 3, dice: "antigüedad mínima un año de experiencia y conocimiento del área".)*
+
 **Líder de Personal Autorizado (diapositiva del curso, textual):**
 > "*Personal Autorizado* acreditado en Lototo, *designado por el supervisor* del equipo de trabajo, quien debe *realizar la prueba de arranque con el CBE* y *firmar el formato de CBE* en señal de conformidad."
 > **¡IMPORTANTE!** "Puede ser personal de SMCV o personal de empresa contratista."
@@ -281,6 +286,14 @@ a) El CBE b) **El supervisor del equipo de trabajo** c) El superintendente de se
 **23. (MC)** El Líder de Personal Autorizado debe:
 a) Reemplazar al CBE b) **Realizar la prueba de arranque con el CBE y firmar el formato de CBE en señal de conformidad** c) Retirar los candados ajenos d) Elaborar el Plan de bloqueo
 **Respuesta: b.** Misma diapositiva.
+
+**24. (MC)** El CBE es quien:
+a) Elabora el Plan de bloqueo solo b) **Lidera el proceso de bloqueo grupal** c) Retira los candados ajenos d) Opera el equipo
+**Respuesta: b.** Diapositiva "Coordinador de Bloqueo de Energía – CBE".
+
+**25. (MC)** Un requisito para ser CBE es:
+a) Ser personal de SMCV exclusivamente b) **Estar acreditado en LOTOTO y CBE y tener como mínimo 1 año de experiencia en el área de trabajo** c) Ser supervisor d) No tener experiencia previa
+**Respuesta: b.** Diapositiva CBE y estándar p. 3 (el superintendente designa a los CBE considerando antigüedad mínima de un año).
 
 ### Datos adicionales útiles para examen
 - Controles críticos: **4** (ver sección 5).
