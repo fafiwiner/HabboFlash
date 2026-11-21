@@ -388,6 +388,33 @@ Puntos clave:
 
 > La foto no incluye la diapositiva de descripción de esta regla; falta.
 
+### Regla para Vivir 16: "Energía Potencial Almacenada" – Controles críticos y riesgos (🟢 textual, diapositiva n.º 101)
+
+**Controles Críticos:**
+
+| N.º | Control crítico (textual) |
+|:-:|---|
+| 16.1 | "Identificar la interacción con energía potencial almacenada" |
+| 16.2 | "Liberar la energía potencial almacenada" |
+| 16.3 | "Contener, aegurar [sic] o aislar en caso de interacción con energía potencial almacenada (neumática, hidráulica)" |
+
+**Riesgos asociados:** Muerte · Liberación no controlada de energía, entre otros.
+
+**Rótulos de la imagen de la diapositiva (ejemplos de energía y dispositivos):**
+- "Energía hidráulica (presión)"
+- "Energía mecánica (tensión/compresión)"
+- "Dispositivo de bloqueo (pasador)"
+- "Dispositivo de contención (cuña / calza)"
+- Íconos: manómetro, resorte, candado LOTO y calza.
+
+**Para el examen:**
+- Son **3** controles críticos, en una secuencia lógica: **identificar → liberar → contener/asegurar/aislar**.
+- **16.3** menciona los tipos **neumática** e **hidráulica**.
+- Tipos de energía almacenada que muestra la imagen: **hidráulica (presión)** y **mecánica (tensión/compresión)**.
+- Dispositivos que muestra la imagen: **dispositivo de bloqueo (pasador)** y **dispositivo de contención (cuña / calza)**.
+
+> Conexión con el curso de LOTOTO: el estándar SSOst0036 incluye la **energía potencial, gravitacional y almacenada** dentro de las formas de energía que cubre (alcance, p. 2), y el control crítico de LOTOTO "disipar/drenar energía remanente" va en la misma línea.
+
 ## 3. Balotario de práctica
 
 **1. (MC)** ¿Cuál es el orden correcto de los controles críticos de energía?
@@ -733,3 +760,30 @@ a) Contacto con energía eléctrica b) **Caída a cuerpos de agua, tanques de pr
 
 **93. (V/F)** La Regla 15 tiene un solo control crítico.
 **Respuesta: V.** Solo 15.1 (chaleco salvavidas).
+
+**94. (MC)** El control crítico 16.2 de la Regla para Vivir 16 es:
+a) Identificar la interacción con energía potencial almacenada b) **Liberar la energía potencial almacenada** c) Contener, asegurar o aislar d) Monitorear la atmósfera
+**Respuesta: b.** Regla 16, control 16.2 (diap. 101).
+
+**95. (MC)** En caso de interacción con energía potencial almacenada (neumática, hidráulica), el control 16.3 exige:
+a) Solo identificar b) **Contener, asegurar o aislar** c) Solo liberar d) Solo señalizar
+**Respuesta: b.** Regla 16, control 16.3.
+
+**96. (MC)** El primer control crítico de la Regla 16 es:
+a) Contener b) Liberar c) **Identificar la interacción con energía potencial almacenada** d) Aislar
+**Respuesta: c.** Regla 16, control 16.1.
+
+**97. (V/F)** El control 16.3 menciona energía neumática e hidráulica.
+**Respuesta: V.** "(neumática, hidráulica)".
+
+**98. (MC)** ¿Cuál es un riesgo asociado de la Regla 16?
+a) Ahogamiento b) **Liberación no controlada de energía** c) Caída de rocas d) Colapso de taludes
+**Respuesta: b.** Regla 16, riesgos asociados: muerte, liberación no controlada de energía, entre otros.
+
+**99. (MC)** Según los rótulos de la imagen de la diapositiva, un dispositivo de contención es:
+a) Un pasador b) **Una cuña / calza** c) Un manómetro d) Un candado
+**Respuesta: b.** La imagen rotula "Dispositivo de contención (cuña / calza)" y "Dispositivo de bloqueo (pasador)".
+
+**100. (MC)** ¿Cuántos controles críticos tiene la Regla 16?
+a) 1 b) 2 c) **3** d) 4
+**Respuesta: c.** 16.1, 16.2 y 16.3.
