@@ -53,6 +53,17 @@ Resumen en tabla:
 
 Letrero que se ve en la imagen: "ÁREA RESTRINGIDA – SOLO PERSONAL AUTORIZADO".
 
+### Regla para Vivir 3: "Operación de Equipo Pesado/Liviano/Móvil" – Descripción (🟢 textual, diapositiva n.º 33)
+
+> "Por su tamaño, peso, inercia y potencia, los equipos móviles utilizados en la minería a tajo abierto pueden ocasionar accidentes graves o fatales durante su interacción con personas, vehículos e instalaciones. El riesgo se incrementa por la visibilidad limitada y los puntos ciegos, zonas que el operador no puede observa [sic] directamente y en las que podrían encontrarse personas, vehículos, otros equipos o instalaciones."
+>
+> "Toda interacción entre vehículos livianos y equipos pesados debe planificarse y ejecutarse mediante comunicación efectiva con el operador, respeto de las rutas, prioridades de tránsito y verificación de las condiciones del entorno."
+
+Puntos clave:
+- Factores de peligro: **tamaño, peso, inercia y potencia** de los equipos móviles (minería a tajo abierto).
+- El riesgo aumenta por **visibilidad limitada y puntos ciegos**.
+- Toda interacción liviano–pesado se **planifica y ejecuta** con: (1) comunicación efectiva con el operador, (2) respeto de las rutas, (3) prioridades de tránsito, (4) verificación de las condiciones del entorno.
+
 ## 3. Balotario de práctica
 
 **1. (MC)** ¿Cuál es el orden correcto de los controles críticos de energía?
@@ -78,3 +89,17 @@ a) Área Controlada, amarillo b) **Área Restringida, rojo** c) Área Controlada
 
 **7. (V/F)** Las áreas deben clasificarse y demarcarse de acuerdo con su nivel de riesgo.
 **Respuesta: V.** Regla para Vivir 2, Descripción.
+
+**8. (MC)** Por su ______, los equipos móviles de la minería a tajo abierto pueden ocasionar accidentes graves o fatales.
+a) Color y ruido b) **Tamaño, peso, inercia y potencia** c) Velocidad y combustible d) Edad y marca
+**Respuesta: b.** Regla para Vivir 3, Descripción (diap. 33).
+
+**9. (V/F)** El riesgo con equipos móviles se incrementa por la visibilidad limitada y los puntos ciegos.
+**Respuesta: V.** Regla para Vivir 3, Descripción. Los puntos ciegos son zonas que el operador no puede observar directamente.
+
+**10. (MC)** Toda interacción entre vehículos livianos y equipos pesados debe planificarse y ejecutarse mediante, EXCEPTO:
+a) Comunicación efectiva con el operador b) Respeto de las rutas c) Prioridades de tránsito d) **Acercarse al equipo por el punto ciego para ser visto**
+**Respuesta: d.** La diapositiva lista: comunicación efectiva con el operador, respeto de las rutas, prioridades de tránsito y verificación de las condiciones del entorno. (La opción d no es un paso y contradice la regla.)
+
+**11. (V/F)** La verificación de las condiciones del entorno es parte de cómo debe ejecutarse la interacción entre vehículos livianos y equipos pesados.
+**Respuesta: V.** Regla para Vivir 3, Descripción.
