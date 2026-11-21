@@ -43,8 +43,9 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 | 11 | "Regla para Vivir 11: 'Trabajos en o cerca de Circuitos Energizados'" |
 | 12 | "Regla para Vivir 12: 'Trabajos con/cerca a Partes Móviles'" |
 | 13 | "Regla para Vivir 13: 'Trabajos con Tuberías HDPE'" |
+| 14 | "Regla para Vivir 14: 'Trabajos en Taludes y Terreno'" |
 
-> Con la Regla 13 ya hay **al menos 13** reglas; el total sigue sin confirmarse (puede haber más de 13). Las reglas **1, 6 y 7** siguen sin diapositiva.
+> Con la Regla 14 ya hay **al menos 14** reglas; el total sigue sin confirmarse (puede haber más de 14). Las reglas **1, 6 y 7** siguen sin diapositiva.
 >
 > La diapositiva "Definiciones" de trabajo en caliente (ver abajo) corresponde a la Regla 10; el número lo confirma la diapositiva de controles críticos.
 
@@ -329,6 +330,23 @@ Puntos clave:
 - **13.1** (trabajos con riesgo de liberación de energía): **barrera sustancial** y/o **mantenerse fuera de la línea de fuego**.
 - **13.2** (transporte y almacenamiento): **barrera rígida y topes**.
 - No confundir: en 13.1 la barrera es **"sustancial"**; en 13.2 es **"rígida"** y se suman **topes**.
+
+### Regla para Vivir 14: "Trabajos en Taludes y Terreno" – Descripción (🟢 textual, diapositiva n.º 93)
+
+> "[L]as inestabilidades, deslizamientos, caídas de roca y colapsos de taludes pueden exponer de manera repentina a las personas a grandes cantidades de material en movimiento, con potencial de provocar golpes, atrapamientos y lesiones graves o fatales."
+> *(La primera letra quedó tapada por la mano del expositor en la foto.)*
+>
+> "Por ello, el control de taludes busca identificar estas condiciones para evitar que las personas ingresen o permanezcan y se expongan a un riesgo de muerte."
+>
+> "Para ello, se requiere la identificación oportuna de condiciones de riesgo, la evaluación permanente de la estabilidad geotécnica y la implementación de medidas de control que garanticen la ejecución segura de las actividades en áreas adyacentes a taludes."
+>
+> "Tenemos la obligación de identificar, evaluar y controlar estos riesgos, promoviendo una cultura de prevención que proteja la vida y la salud de los trabajadores."
+
+Puntos clave:
+- **Qué puede ocurrir:** inestabilidades, deslizamientos, caídas de roca y colapsos de taludes → exposición repentina a grandes cantidades de material en movimiento → golpes, atrapamientos, lesiones graves o fatales.
+- **Objetivo del control de taludes:** identificar estas condiciones para **evitar que las personas ingresen o permanezcan** y se expongan a un riesgo de muerte.
+- **Se requiere (3 cosas):** (1) **identificación oportuna** de condiciones de riesgo; (2) **evaluación permanente** de la estabilidad geotécnica; (3) **implementación de medidas de control** que garanticen la ejecución segura de las actividades en áreas adyacentes a taludes.
+- La imagen muestra letreros "PELIGRO – TALUD INESTABLE" y "Talud (monitoreado)", con un topógrafo y estación total.
 
 ## 3. Balotario de práctica
 
@@ -623,3 +641,18 @@ a) Caída de cargas suspendidas b) Liberación no controlada de energía c) Libe
 **79. (MC)** ¿Cuántos controles críticos tiene la Regla 13?
 a) 1 b) **2** c) 3 d) 4
 **Respuesta: b.** 13.1 (barrera sustancial / fuera de la línea de fuego) y 13.2 (barrera rígida y topes).
+
+**80. (MC)** Las inestabilidades, deslizamientos, caídas de roca y colapsos de taludes pueden exponer de manera repentina a las personas a:
+a) Gases tóxicos b) **Grandes cantidades de material en movimiento** c) Descargas eléctricas d) Radiación
+**Respuesta: b.** Regla 14, Descripción (diap. 93). Con potencial de provocar golpes, atrapamientos y lesiones graves o fatales.
+
+**81. (MC)** El control de taludes busca identificar las condiciones de riesgo para:
+a) Aumentar la producción b) **Evitar que las personas ingresen o permanezcan y se expongan a un riesgo de muerte** c) Reducir el EPP d) Acelerar la excavación
+**Respuesta: b.** Regla 14, Descripción.
+
+**82. (MC)** Para ejecutar de forma segura las actividades en áreas adyacentes a taludes se requiere:
+a) Solo señalización b) **Identificación oportuna de condiciones de riesgo, evaluación permanente de la estabilidad geotécnica e implementación de medidas de control** c) Solo inspección anual d) Solo EPP
+**Respuesta: b.** Regla 14, Descripción.
+
+**83. (V/F)** La evaluación de la estabilidad geotécnica en áreas adyacentes a taludes debe ser permanente.
+**Respuesta: V.** Regla 14, Descripción: "la evaluación permanente de la estabilidad geotécnica".
