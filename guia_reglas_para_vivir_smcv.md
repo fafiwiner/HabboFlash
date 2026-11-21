@@ -106,6 +106,25 @@ Puntos clave:
 - Se requieren **controles rigurosos** por el potencial de exposición a sustancias **tóxicas, corrosivas y reactivas**.
 - Peligros que pueden ser **fatales**: liberación de H₂S por el NaHS; exposición a ácido sulfúrico, sus nieblas, gases y vapores; fugas de cloro.
 
+### Regla para Vivir 8 – Descripción de las sustancias (🟢 textual, diapositiva n.º 74)
+
+> **Sulfuro de Hidrógeno:** "Gas incoloro, inflamable y extremadamente peligroso con olor a 'huevo podrido'. En nuestras operaciones utilizamos el Hidrosulfuro de Sodio (NaHS) que es un líquido alcalino, de color amarillo a verde oscuro y presenta un fuerte olor a huevos podridos, en condiciones de medio ácido y temperatura tiene la potencialidad de generar H2S (gas)."
+>
+> **Ácido sulfúrico (HSO) [sic: H₂SO₄]:** "Líquido aceitoso, incoloro a ligeramente amarillento, altamente corrosivo, el contacto directo puede generar lesiones graves e incluso la muerte. Reacciona con ciertos elementos los cuales generan gases tóxicos dañinos para las personas."
+>
+> **Gas cloro:** "Es altamente tóxico, no es inflamable, pero si oxidante. La inhalación de este gas puede generar la muerte."
+>
+> "Tenemos la obligación de identificar, evaluar y controlar estos riesgos, promoviendo una cultura de prevención que proteja la vida y la salud de los trabajadores."
+
+Comparativo rápido:
+
+| Sustancia | Estado y aspecto | Peligro principal |
+|---|---|---|
+| **H₂S** (sulfuro de hidrógeno) | Gas incoloro, olor a "huevo podrido" | Inflamable y extremadamente peligroso |
+| **NaHS** (hidrosulfuro de sodio) | Líquido alcalino, amarillo a verde oscuro, fuerte olor a huevos podridos | En medio ácido y con temperatura puede generar H₂S (gas) |
+| **H₂SO₄** (ácido sulfúrico) | Líquido aceitoso, incoloro a ligeramente amarillento | Altamente corrosivo (lesiones graves o muerte); reacciona con ciertos elementos y genera gases tóxicos |
+| **Cl₂** (gas cloro) | Gas | Altamente tóxico; **no inflamable, pero sí oxidante**; la inhalación puede causar la muerte |
+
 ## 3. Balotario de práctica
 
 **1. (MC)** ¿Cuál es el orden correcto de los controles críticos de energía?
@@ -186,3 +205,24 @@ a) Inflamables, explosivas y radiactivas b) **Tóxicas, corrosivas y reactivas**
 
 **22. (V/F)** La exposición a ácido sulfúrico, sus nieblas, gases y vapores, y las fugas de cloro pueden derivar en consecuencias fatales para las personas.
 **Respuesta: V.** Regla 8, Descripción.
+
+**23. (MC)** El sulfuro de hidrógeno (H₂S) es:
+a) Un líquido aceitoso incoloro b) **Un gas incoloro, inflamable y extremadamente peligroso con olor a "huevo podrido"** c) Un gas oxidante no inflamable d) Un sólido alcalino amarillo
+**Respuesta: b.** Regla 8, diap. 74.
+
+**24. (MC)** El hidrosulfuro de sodio (NaHS) que se usa en las operaciones es:
+a) Un gas incoloro b) **Un líquido alcalino de color amarillo a verde oscuro con fuerte olor a huevos podridos, que en medio ácido y temperatura puede generar H₂S (gas)** c) Un líquido aceitoso incoloro d) Un gas oxidante
+**Respuesta: b.** Regla 8, diap. 74.
+
+**25. (MC)** El ácido sulfúrico se describe como:
+a) Gas inflamable b) **Líquido aceitoso, incoloro a ligeramente amarillento, altamente corrosivo** c) Líquido alcalino amarillo d) Gas oxidante
+**Respuesta: b.** Regla 8, diap. 74. Su contacto directo puede generar lesiones graves e incluso la muerte, y reacciona con ciertos elementos generando gases tóxicos.
+
+**26. (V/F)** El gas cloro es altamente tóxico, no es inflamable, pero sí oxidante.
+**Respuesta: V.** Regla 8, diap. 74.
+
+**27. (V/F)** El gas cloro es inflamable.
+**Respuesta: F.** "No es inflamable, pero sí oxidante." (diap. 74). El inflamable de la regla es el sulfuro de hidrógeno.
+
+**28. (V/F)** Según la Regla 8, tenemos la obligación de identificar, evaluar y controlar estos riesgos, promoviendo una cultura de prevención que proteja la vida y la salud de los trabajadores.
+**Respuesta: V.** Cita de cierre de la diap. 74.
