@@ -39,10 +39,11 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 | 7 | *(pendiente: falta su diapositiva)* |
 | 8 | "Regla para Vivir 8: 'Trabajos con/cerca de Sustancias Químicas NaHS (H2S), H2SO4, Cloro'" |
 | 9 | "Regla para Vivir 9: 'Excavaciones y Zanjas'" |
+| 10 | "Regla para Vivir 10: 'Trabajos en Caliente'" |
 
-> Con la Regla 9 ya hay **al menos 9** reglas; el total sigue sin confirmarse (puede haber más de 9).
+> Con la Regla 10 ya hay **al menos 10** reglas; el total sigue sin confirmarse (puede haber más de 10). Las reglas **1, 6 y 7** siguen sin diapositiva.
 >
-> Tema visto sin número de regla: **Trabajo en caliente** (diapositiva "Definiciones", ver abajo). Podría ser la Regla 6 o la 7, pero la foto no lo dice; no está confirmado.
+> La diapositiva "Definiciones" de trabajo en caliente (ver abajo) corresponde a la Regla 10; el número lo confirma la diapositiva de controles críticos.
 
 ### Regla para Vivir 2: "Ingreso a Áreas Restringidas" – Descripción (🟢 textual)
 
@@ -178,7 +179,7 @@ Puntos clave:
 
 > FIBS: sigla de la diapositiva; la foto no la desarrolla. No la desarrollo para no inventarla.
 
-### Trabajo en caliente – "Definiciones" (🟢 textual; número de regla no visible en la foto)
+### Regla para Vivir 10: "Trabajos en Caliente" – "Definiciones" (🟢 textual; el número de regla no se ve en esta diapositiva, pero es el tema de la Regla 10)
 
 > "Aquel que involucra la presencia de llama abierta generada por trabajos de soldadura, chispas de corte, esmerilado y otros afines que producen calor o chispas y tiene el potencial de crear o transformarse en una fuente de ignición en áreas con riesgos de incendio."
 >
@@ -193,6 +194,26 @@ Puntos clave:
 - Exposición a sustancias peligrosas – aguda.
 
 > La foto muestra el texto de la definición pero no la palabra que define (empieza con "Aquel que involucra…"); por el contenido y por los procesos que lista, es "trabajo en caliente".
+
+### Regla para Vivir 10: "Trabajos en Caliente" – Controles críticos y riesgos (🟢 textual, diapositiva n.º 82)
+
+**Controles Críticos:**
+
+| N.º | Control crítico (textual) |
+|:-:|---|
+| 10.1 | "Identificar, eliminar o proteger todo material inflamable y/o combustible dentro de los 11 metros de radio de un trabajo en caliente" |
+| 10.2 | "Realizar el monitoreo de explosividad de la atmósfera en tanques, estanques, recipientes o sistemas de tuberías que contengan o hayan contenido líquidos o gases inflamables manteniendo un LEL<10%" |
+
+**Riesgos asociados:** Muerte · Quemaduras · Incendios, entre otros.
+
+**Cifras clave para el examen:**
+
+| Dato | Valor |
+|---|---|
+| Radio para identificar, eliminar o proteger material inflamable y/o combustible | **11 metros** de radio del trabajo en caliente |
+| Explosividad de la atmósfera (LEL) en tanques, estanques, recipientes o tuberías que contengan o hayan contenido líquidos o gases inflamables | **LEL < 10 %** |
+
+> LEL: sigla de la diapositiva (en general, límite inferior de explosividad); la diapositiva no la desarrolla.
 
 ## 3. Balotario de práctica
 
@@ -359,3 +380,22 @@ a) Siempre, sin excepciones b) **A menos que se trabaje en un área designada a 
 **45. (MC)** ¿Cuál es un riesgo potencial del trabajo en caliente?
 a) Derrumbe de paredes b) **Incendio y exposición a sustancias peligrosas (crónica y aguda)** c) Caída de objetos desde altura d) Atropello
 **Respuesta: b.** Diapositiva "Definiciones", Riesgos potenciales: incendio; exposición a sustancias peligrosas crónica y aguda.
+
+**46. (MC)** ¿Dentro de qué radio se debe identificar, eliminar o proteger todo material inflamable y/o combustible en un trabajo en caliente?
+a) 5 metros b) 8 metros c) **11 metros** d) 15 metros
+**Respuesta: c.** Regla 10, control 10.1 (diap. 82).
+
+**47. (MC)** En tanques, estanques, recipientes o sistemas de tuberías que contengan o hayan contenido líquidos o gases inflamables, el monitoreo de explosividad debe mantener un:
+a) LEL < 1% b) **LEL < 10%** c) LEL < 25% d) LEL < 50%
+**Respuesta: b.** Regla 10, control 10.2.
+
+**48. (V/F)** El monitoreo de explosividad aplica también a recipientes o tuberías que "hayan contenido" líquidos o gases inflamables.
+**Respuesta: V.** Regla 10, control 10.2: "que contengan o hayan contenido".
+
+**49. (MC)** ¿Cuál es un riesgo asociado de la Regla 10 (Trabajos en Caliente)?
+a) Atrapamiento por derrumbe b) **Muerte, quemaduras e incendios** c) Asfixia por atmósfera enrarecida d) Electrocución por línea subterránea
+**Respuesta: b.** Regla 10, riesgos asociados: muerte, quemaduras, incendios, entre otros.
+
+**50. (MC)** ¿Cuántos controles críticos tiene la Regla 10?
+a) 1 b) **2** c) 3 d) 4
+**Respuesta: b.** 10.1 (material inflamable/combustible a 11 m) y 10.2 (monitoreo de explosividad, LEL < 10%).
