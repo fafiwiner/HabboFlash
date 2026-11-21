@@ -42,8 +42,9 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 | 10 | "Regla para Vivir 10: 'Trabajos en Caliente'" |
 | 11 | "Regla para Vivir 11: 'Trabajos en o cerca de Circuitos Energizados'" |
 | 12 | "Regla para Vivir 12: 'Trabajos con/cerca a Partes Móviles'" |
+| 13 | "Regla para Vivir 13: 'Trabajos con Tuberías HDPE'" |
 
-> Con la Regla 12 ya hay **al menos 12** reglas; el total sigue sin confirmarse (puede haber más de 12). Las reglas **1, 6 y 7** siguen sin diapositiva.
+> Con la Regla 13 ya hay **al menos 13** reglas; el total sigue sin confirmarse (puede haber más de 13). Las reglas **1, 6 y 7** siguen sin diapositiva.
 >
 > La diapositiva "Definiciones" de trabajo en caliente (ver abajo) corresponde a la Regla 10; el número lo confirma la diapositiva de controles críticos.
 
@@ -290,6 +291,27 @@ Puntos clave:
 - **12.1** No exponerse a partes móviles **sin guardas**.
 - **12.2** No retirar guardas **sin bloquear el equipo** (LOTOTO).
 - **12.3** No arrancar/operar equipos **sin reponer** guardas y/o sistemas de protección.
+
+### Regla para Vivir 13: "Trabajos con Tuberías HDPE" – Descripción (🟢 textual, diapositiva n.º 90)
+
+> "Las tuberías HDPE, por sus dimensiones, peso y características de manipulación, pueden generar situaciones de alto riesgo durante su transporte, almacenamiento, posicionamiento y manipulación."
+>
+> "Un movimiento inesperado, la caída o desplazamiento de una tubería, la liberación repentina de energía o la interacción con equipos móviles puede exponer a las personas a atrapamientos, golpes o lesiones con consecuencias graves o fatales."
+>
+> "Prevenir estos eventos requiere anticiparnos a los posibles movimientos de las tuberías, mantener a las personas fuera de la línea de fuego y asegurar su estabilidad en todo momento."
+>
+> "Durante el transporte y almacenamiento, es fundamental contar con sistemas de sujeción, topes y medios físicos adecuados que eviten desplazamientos o movimientos inesperados."
+>
+> "Tenemos la obligación de identificar, evaluar y controlar estos riesgos, promoviendo una cultura de prevención que proteja la vida y la salud de los trabajadores."
+
+Puntos clave:
+- **Cuatro momentos de riesgo:** transporte, almacenamiento, posicionamiento y manipulación.
+- **Qué puede pasar:** movimiento inesperado, caída o desplazamiento de la tubería, liberación repentina de energía, interacción con equipos móviles → atrapamientos, golpes o lesiones graves o fatales.
+- **Prevención:** anticiparse a los posibles movimientos, **mantener a las personas fuera de la línea de fuego** y **asegurar la estabilidad en todo momento**.
+- **Transporte y almacenamiento:** **sistemas de sujeción, topes y medios físicos adecuados** para evitar desplazamientos o movimientos inesperados.
+- La imagen muestra una "Distancia segura (fuera de la línea de fuego)" demarcada con conos.
+
+> HDPE: sigla de la diapositiva; la foto no la desarrolla (en general, polietileno de alta densidad).
 
 ## 3. Balotario de práctica
 
@@ -550,3 +572,18 @@ a) 1 b) 2 c) **3** d) 4
 **70. (MC)** ¿Cuál NO es un riesgo asociado de la Regla 12?
 a) Atrapamiento b) Golpes c) Contacto con equipos en movimiento d) **Intoxicación por gases**
 **Respuesta: d.** Riesgos de la Regla 12: muerte, atrapamiento, golpes, lesiones, contacto con energía eléctrica, contacto con equipos en movimiento, entre otros.
+
+**71. (MC)** Las tuberías HDPE pueden generar situaciones de alto riesgo durante:
+a) Solo su manipulación b) **Su transporte, almacenamiento, posicionamiento y manipulación** c) Solo su almacenamiento d) Solo su instalación final
+**Respuesta: b.** Regla 13, Descripción (diap. 90).
+
+**72. (MC)** Para prevenir los eventos con tuberías HDPE se requiere anticiparse a los posibles movimientos, asegurar su estabilidad en todo momento y:
+a) Trabajar más rápido b) **Mantener a las personas fuera de la línea de fuego** c) Reducir el EPP d) Trabajar de noche
+**Respuesta: b.** Regla 13, Descripción.
+
+**73. (MC)** Durante el transporte y almacenamiento de tuberías HDPE es fundamental contar con:
+a) Solo cintas de peligro b) **Sistemas de sujeción, topes y medios físicos adecuados que eviten desplazamientos o movimientos inesperados** c) Letreros d) Vigías
+**Respuesta: b.** Regla 13, Descripción.
+
+**74. (V/F)** Un movimiento inesperado, la caída o desplazamiento de una tubería, la liberación repentina de energía o la interacción con equipos móviles pueden exponer a las personas a atrapamientos, golpes o lesiones graves o fatales.
+**Respuesta: V.** Regla 13, Descripción.
