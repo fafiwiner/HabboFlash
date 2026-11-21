@@ -45,8 +45,9 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 | 13 | "Regla para Vivir 13: 'Trabajos con Tuberías HDPE'" |
 | 14 | "Regla para Vivir 14: 'Trabajos en Taludes y Terreno'" |
 | 15 | "Regla para Vivir 15: 'Ahogamiento'" |
+| 16 | "Regla para Vivir 16: 'Energía Potencial Almacenada'" (portada, diapositiva n.º 98) |
 
-> Con la Regla 15 ya hay **al menos 15** reglas; el total sigue sin confirmarse (puede haber más de 15). Las reglas **1, 6 y 7** siguen sin diapositiva.
+> Con la Regla 16 ya hay **al menos 16** reglas; el total sigue sin confirmarse (puede haber más de 16). Las reglas **1, 6 y 7** siguen sin diapositiva.
 >
 > La diapositiva "Definiciones" de trabajo en caliente (ver abajo) corresponde a la Regla 10; el número lo confirma la diapositiva de controles críticos.
 
