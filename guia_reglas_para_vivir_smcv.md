@@ -273,6 +273,24 @@ Puntos clave:
 
 > En la foto el borde derecho de la diapositiva está cortado (logo y parte de los íconos); el texto del cuerpo se lee completo.
 
+### Regla para Vivir 12 – Controles críticos y riesgos (🟢 textual)
+
+**Controles Críticos:**
+
+| N.º | Control crítico (textual) |
+|:-:|---|
+| 12.1 | "No exponerse a equipos y/o partes móviles sin guardas o protecciones físicas" |
+| 12.2 | "No retirar guardas / protecciones físicas de las piezas móviles o equipos en movimiento sin bloquear el equipo" |
+| 12.3 | "No arrancar / operar equipos sin reponer sus guardas y/o sistemas de protección" |
+
+**Riesgos asociados:** Muerte · Atrapamiento · Golpes · Lesiones · Contacto con energía eléctrica · Contacto con equipos en movimiento, entre otros.
+
+**Para el examen:**
+- Son **3** controles críticos, y los tres están redactados como **prohibiciones** ("No…").
+- **12.1** No exponerse a partes móviles **sin guardas**.
+- **12.2** No retirar guardas **sin bloquear el equipo** (LOTOTO).
+- **12.3** No arrancar/operar equipos **sin reponer** guardas y/o sistemas de protección.
+
 ## 3. Balotario de práctica
 
 **1. (MC)** ¿Cuál es el orden correcto de los controles críticos de energía?
@@ -513,3 +531,22 @@ a) Avisar por radio b) **Bloquear el equipo (LOTOTO)** c) Reducir la velocidad d
 **65. (MC)** Los trabajos con o cerca de partes móviles representan uno de los riesgos con mayor potencial de generar:
 a) Electrocuciones b) **Atrapamientos, golpes en distintas partes del cuerpo y fatalidades** c) Intoxicaciones d) Inundaciones
 **Respuesta: b.** Regla 12, Descripción.
+
+**66. (MC)** ¿Cuál es el control crítico 12.2 de la Regla 12?
+a) No exponerse a equipos sin guardas b) **No retirar guardas / protecciones físicas de las piezas móviles o equipos en movimiento sin bloquear el equipo** c) No arrancar equipos sin reponer sus guardas d) Usar EPP específico
+**Respuesta: b.** Regla 12, control 12.2. Conecta con la descripción: para retirar guardas se debe bloquear previamente el equipo (LOTOTO).
+
+**67. (MC)** ¿Qué exige el control 12.3 antes de arrancar u operar un equipo?
+a) Avisar al supervisor b) **Reponer sus guardas y/o sistemas de protección** c) Lubricar las partes móviles d) Medir la temperatura
+**Respuesta: b.** Regla 12, control 12.3.
+
+**68. (V/F)** Está permitido exponerse a partes móviles sin guardas si el equipo está en mantenimiento.
+**Respuesta: F.** Control 12.1: "No exponerse a equipos y/o partes móviles sin guardas o protecciones físicas".
+
+**69. (MC)** ¿Cuántos controles críticos tiene la Regla 12?
+a) 1 b) 2 c) **3** d) 4
+**Respuesta: c.** 12.1, 12.2 y 12.3.
+
+**70. (MC)** ¿Cuál NO es un riesgo asociado de la Regla 12?
+a) Atrapamiento b) Golpes c) Contacto con equipos en movimiento d) **Intoxicación por gases**
+**Respuesta: d.** Riesgos de la Regla 12: muerte, atrapamiento, golpes, lesiones, contacto con energía eléctrica, contacto con equipos en movimiento, entre otros.
