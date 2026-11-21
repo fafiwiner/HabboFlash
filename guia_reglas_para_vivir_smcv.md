@@ -33,8 +33,9 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 | 1 | *(pendiente: falta su diapositiva)* |
 | 2 | "Regla para Vivir 2: 'Ingreso a Áreas Restringidas'" |
 | 3 | "Regla para Vivir 3: 'Operación de Equipo Pesado/Liviano/Móvil'" |
+| 4 | "Regla para Vivir 4: 'Trabajos en Altura o Desnivel / Open Hole / Caída de objetos'" |
 
-> Con la Regla 3 ya hay **al menos 3** reglas; el total sigue sin confirmarse.
+> Con la Regla 4 ya hay **al menos 4** reglas; el total sigue sin confirmarse.
 
 ### Regla para Vivir 2: "Ingreso a Áreas Restringidas" – Descripción (🟢 textual)
 
@@ -63,6 +64,21 @@ Puntos clave:
 - Factores de peligro: **tamaño, peso, inercia y potencia** de los equipos móviles (minería a tajo abierto).
 - El riesgo aumenta por **visibilidad limitada y puntos ciegos**.
 - Toda interacción liviano–pesado se **planifica y ejecuta** con: (1) comunicación efectiva con el operador, (2) respeto de las rutas, (3) prioridades de tránsito, (4) verificación de las condiciones del entorno.
+
+### Regla para Vivir 4: "Trabajos en Altura o Desnivel / Open Hole / Caída de objetos" – Controles críticos y riesgos (🟢 textual)
+
+**Controles Críticos:**
+
+| N.º | Control crítico (textual) |
+|:-:|---|
+| 4.1 | "Usar sistemas de protección contra caídas aprobados" |
+| 4.2 | "Utilizar contenedores y/o asegurar herramientas, equipos y objetos que puedan caer" |
+| 4.3 | "Instalar barreras rígidas o protecciones en open hole (aberturas en piso o pared)" |
+| 4.4 | "Demarcar como área restringida temporal zonas inferiores con riesgo de caída de objetos" |
+
+**Riesgos asociados:** Muerte · Caídas a distinto nivel · Golpes · Lesiones, entre otros.
+
+> Observación: la numeración de los controles críticos (4.1 a 4.4) empieza con el número de la regla (Regla 4). Probablemente la Regla 2 y la Regla 3 tienen los suyos como 2.x y 3.x en diapositivas que aún no he visto.
 
 ## 3. Balotario de práctica
 
@@ -103,3 +119,18 @@ a) Comunicación efectiva con el operador b) Respeto de las rutas c) Prioridades
 
 **11. (V/F)** La verificación de las condiciones del entorno es parte de cómo debe ejecutarse la interacción entre vehículos livianos y equipos pesados.
 **Respuesta: V.** Regla para Vivir 3, Descripción.
+
+**12. (MC)** ¿Cuál es un control crítico de la Regla para Vivir 4 (Trabajos en Altura o Desnivel / Open Hole / Caída de objetos)?
+a) Usar sistemas de protección contra caídas aprobados b) Pintar las barandas c) Reducir el horario de trabajo d) Usar solo cinturones de cuero
+**Respuesta: a.** Regla 4, control crítico 4.1. (Los otros tres no aparecen en la lista.)
+
+**13. (MC)** Para el riesgo de caída de objetos, el control crítico 4.4 indica:
+a) Cubrir los objetos con lona b) **Demarcar como área restringida temporal zonas inferiores con riesgo de caída de objetos** c) Prohibir el trabajo en altura d) Usar casco de color rojo
+**Respuesta: b.** Regla 4, control 4.4.
+
+**14. (V/F)** Instalar barreras rígidas o protecciones en open hole (aberturas en piso o pared) es un control crítico de la Regla 4.
+**Respuesta: V.** Regla 4, control 4.3.
+
+**15. (MC)** ¿Cuál NO es un riesgo asociado de la Regla 4?
+a) Muerte b) Caídas a distinto nivel c) Golpes d) **Intoxicación por gases**
+**Respuesta: d.** Los riesgos asociados que lista la diapositiva son: muerte, caídas a distinto nivel, golpes, lesiones, entre otros. La intoxicación por gases no está en la lista.
