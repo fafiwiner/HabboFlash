@@ -41,6 +41,8 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 | 9 | "Regla para Vivir 9: 'Excavaciones y Zanjas'" |
 
 > Con la Regla 9 ya hay **al menos 9** reglas; el total sigue sin confirmarse (puede haber más de 9).
+>
+> Tema visto sin número de regla: **Trabajo en caliente** (diapositiva "Definiciones", ver abajo). Podría ser la Regla 6 o la 7, pero la foto no lo dice; no está confirmado.
 
 ### Regla para Vivir 2: "Ingreso a Áreas Restringidas" – Descripción (🟢 textual)
 
@@ -175,6 +177,22 @@ Puntos clave:
 | Barreras físicas rígidas | Profundidad **mayor o igual a 1.2 metros** con riesgo de caída de personas |
 
 > FIBS: sigla de la diapositiva; la foto no la desarrolla. No la desarrollo para no inventarla.
+
+### Trabajo en caliente – "Definiciones" (🟢 textual; número de regla no visible en la foto)
+
+> "Aquel que involucra la presencia de llama abierta generada por trabajos de soldadura, chispas de corte, esmerilado y otros afines que producen calor o chispas y tiene el potencial de crear o transformarse en una fuente de ignición en áreas con riesgos de incendio."
+>
+> "* Los procesos comunes de trabajo en caliente son soldadura, corte, pulverización y otros."
+
+**PERMISO DE TRABAJO EN CALIENTE:**
+> "Aplica para operaciones de trabajo en caliente a menos que se trabaje en un área designada a 'prueba de incendio'."
+
+**RIESGOS POTENCIALES:**
+- Incendio.
+- Exposición a sustancias peligrosas – crónico.
+- Exposición a sustancias peligrosas – aguda.
+
+> La foto muestra el texto de la definición pero no la palabra que define (empieza con "Aquel que involucra…"); por el contenido y por los procesos que lista, es "trabajo en caliente".
 
 ## 3. Balotario de práctica
 
@@ -326,3 +344,18 @@ a) Contacto con líneas eléctricas energizadas b) Caída de material c) Interru
 **41. (MC)** Los controles críticos de la Regla 9 son, en orden:
 a) 9.1 Detectores, 9.2 EPP, 9.3 Barreras b) **9.1 FIBS, 9.2 Inspección geotécnica y sostenimiento (mayores a 2 m), 9.3 Barreras rígidas (≥ 1.2 m)** c) 9.1 Arnés, 9.2 Contenedores, 9.3 Demarcación d) 9.1 Monitoreo, 9.2 Material en techo
 **Respuesta: b.** Regla 9, diapositiva de Controles Críticos.
+
+**42. (MC)** Los procesos comunes de trabajo en caliente son:
+a) Pintura, limpieza y lubricación b) **Soldadura, corte, pulverización y otros** c) Excavación y relleno d) Izaje y transporte
+**Respuesta: b.** Diapositiva "Definiciones" (trabajo en caliente).
+
+**43. (V/F)** El trabajo en caliente involucra la presencia de llama abierta generada por soldadura, chispas de corte, esmerilado y otros afines, con potencial de convertirse en una fuente de ignición en áreas con riesgos de incendio.
+**Respuesta: V.** Diapositiva "Definiciones".
+
+**44. (MC)** El permiso de trabajo en caliente aplica para operaciones de trabajo en caliente:
+a) Siempre, sin excepciones b) **A menos que se trabaje en un área designada a "prueba de incendio"** c) Solo de noche d) Solo en espacios confinados
+**Respuesta: b.** Diapositiva "Definiciones", Permiso de trabajo en caliente.
+
+**45. (MC)** ¿Cuál es un riesgo potencial del trabajo en caliente?
+a) Derrumbe de paredes b) **Incendio y exposición a sustancias peligrosas (crónica y aguda)** c) Caída de objetos desde altura d) Atropello
+**Respuesta: b.** Diapositiva "Definiciones", Riesgos potenciales: incendio; exposición a sustancias peligrosas crónica y aguda.
