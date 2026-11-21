@@ -155,6 +155,27 @@ Puntos clave:
 - **Instalaciones subterráneas no identificadas:** líneas eléctricas, tuberías de gas, combustible, agua o sistemas de comunicación.
 - **Consecuencias si no se identifican:** electrocuciones, incendios, explosiones, inundaciones, liberación de sustancias peligrosas; lesiones graves o la muerte.
 
+### Regla para Vivir 9 – Controles críticos y riesgos (🟢 textual)
+
+**Controles Críticos:**
+
+| N.º | Control crítico (textual) |
+|:-:|---|
+| 9.1 | "Cumplir con las recomendaciones identificadas en el FIBS" |
+| 9.2 | "Realizar la inspección geotécnica de excavaciones mayores a 2 metros donde ingresa personal e implementar los sistemas de sostenimiento de acuerdo con los resultado [sic] de la inspección" |
+| 9.3 | "Instalar barreras físicas rígidas en excavaciones con profundidad mayores o iguales a 1.2 metros con riesgo de caída de personas" |
+
+**Riesgos asociados:** Muerte · Contacto con sustancias peligrosas · Contacto con líneas eléctricas energizadas · Interrupción de procesos operativos · Atrapamientos · Caída de material · Caída a distinto nivel, entre otros.
+
+**Cifras clave para el examen:**
+
+| Dato | Valor |
+|---|---|
+| Inspección geotécnica y sistemas de sostenimiento | Excavaciones **mayores a 2 metros** donde ingresa personal |
+| Barreras físicas rígidas | Profundidad **mayor o igual a 1.2 metros** con riesgo de caída de personas |
+
+> FIBS: sigla de la diapositiva; la foto no la desarrolla. No la desarrollo para no inventarla.
+
 ## 3. Balotario de práctica
 
 **1. (MC)** ¿Cuál es el orden correcto de los controles críticos de energía?
@@ -286,3 +307,22 @@ a) Líneas eléctricas b) Tuberías de gas, combustible o agua c) Sistemas de co
 
 **36. (V/F)** Las instalaciones subterráneas no identificadas pueden generar electrocuciones, incendios, explosiones, inundaciones y liberación de sustancias peligrosas.
 **Respuesta: V.** Regla 9, Descripción.
+
+**37. (MC)** ¿A partir de qué profundidad se deben instalar barreras físicas rígidas en excavaciones con riesgo de caída de personas?
+a) 0.5 m b) 1.0 m c) **1.2 m o más (mayores o iguales a 1.2 metros)** d) 2 m
+**Respuesta: c.** Regla 9, control 9.3.
+
+**38. (MC)** ¿Para qué excavaciones se debe realizar la inspección geotécnica y implementar los sistemas de sostenimiento según el resultado?
+a) Todas las excavaciones b) Menores a 1 metro c) **Mayores a 2 metros donde ingresa personal** d) Solo zanjas para tuberías
+**Respuesta: c.** Regla 9, control 9.2.
+
+**39. (V/F)** Cumplir con las recomendaciones identificadas en el FIBS es un control crítico de la Regla 9.
+**Respuesta: V.** Regla 9, control 9.1.
+
+**40. (MC)** ¿Cuál NO es un riesgo asociado de la Regla 9?
+a) Contacto con líneas eléctricas energizadas b) Caída de material c) Interrupción de procesos operativos d) **Asfixia por atmósfera enrarecida**
+**Respuesta: d.** Riesgos de la Regla 9: muerte, contacto con sustancias peligrosas, contacto con líneas eléctricas energizadas, interrupción de procesos operativos, atrapamientos, caída de material, caída a distinto nivel, entre otros. La atmósfera enrarecida es de la Regla 5.
+
+**41. (MC)** Los controles críticos de la Regla 9 son, en orden:
+a) 9.1 Detectores, 9.2 EPP, 9.3 Barreras b) **9.1 FIBS, 9.2 Inspección geotécnica y sostenimiento (mayores a 2 m), 9.3 Barreras rígidas (≥ 1.2 m)** c) 9.1 Arnés, 9.2 Contenedores, 9.3 Demarcación d) 9.1 Monitoreo, 9.2 Material en techo
+**Respuesta: b.** Regla 9, diapositiva de Controles Críticos.
