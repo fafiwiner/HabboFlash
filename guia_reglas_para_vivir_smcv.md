@@ -231,6 +231,25 @@ Puntos clave:
 - **Arco eléctrico:** puede liberar súbitamente una gran cantidad de **energía térmica**.
 - **Nunca asumir** que una intervención es segura únicamente porque no habrá contacto directo con el circuito.
 
+### Regla para Vivir 11 – Controles críticos y riesgos (🟢 textual)
+
+**Controles Críticos:**
+
+| N.º | Control crítico (textual) |
+|:-:|---|
+| 11.1 | "Utilizar el EPP requerido y en buen estado de acuerdo con la etiqueta de shock y arco eléctrico del circuito a intervenir o fuente principal" |
+| 11.2 | "Utilizar herramientas manuales aisladas certificadas" |
+| 11.3 | "Implementar la barrera de demarcación de acuerdo con la etiqueta de shock y arco eléctrico del circuito a intervenir o fuente principal" |
+| 11.4 | "Utilizar el EPP específico y herramientas específicas para trabajos en Planta EW" |
+
+**Riesgos asociados:** Muerte · Contacto con energía eléctrica · Quemaduras · Electrocución, entre otros.
+
+**Para el examen:**
+- Son **4** controles críticos.
+- **EPP (11.1) y barrera de demarcación (11.3):** ambos dependen de la **etiqueta de shock y arco eléctrico** del circuito a intervenir o fuente principal.
+- **Herramientas (11.2):** manuales, **aisladas y certificadas**.
+- **Planta EW (11.4):** EPP y herramientas **específicos**.
+
 ## 3. Balotario de práctica
 
 **1. (MC)** ¿Cuál es el orden correcto de los controles críticos de energía?
@@ -433,3 +452,26 @@ a) Solo toca el conductor con la mano b) **Entra en contacto o se aproxima a par
 **55. (MC)** La aproximación a partes energizadas expuestas puede generar una condición de alto riesgo cuando:
 a) Hay lluvia b) **No se respetan las distancias y controles establecidos** c) Se trabaja de noche d) Se usa herramienta manual
 **Respuesta: b.** Regla 11, Descripción.
+
+**56. (MC)** El EPP requerido para trabajos en o cerca de circuitos energizados se determina de acuerdo con:
+a) La decisión del trabajador b) **La etiqueta de shock y arco eléctrico del circuito a intervenir o fuente principal** c) El color del casco d) La hora del día
+**Respuesta: b.** Regla 11, control 11.1. Debe estar además en buen estado.
+
+**57. (MC)** ¿Qué tipo de herramientas manuales exige el control crítico 11.2?
+a) Cualquier herramienta de acero b) **Herramientas manuales aisladas certificadas** c) Herramientas neumáticas d) Herramientas hidráulicas
+**Respuesta: b.** Regla 11, control 11.2.
+
+**58. (V/F)** La barrera de demarcación se implementa de acuerdo con la etiqueta de shock y arco eléctrico del circuito a intervenir o fuente principal.
+**Respuesta: V.** Regla 11, control 11.3.
+
+**59. (MC)** ¿Qué exige el control crítico 11.4?
+a) Detectores portátiles b) **EPP específico y herramientas específicas para trabajos en Planta EW** c) Monitoreo de atmósfera d) Barreras rígidas a 1.2 m
+**Respuesta: b.** Regla 11, control 11.4.
+
+**60. (MC)** ¿Cuál NO es un riesgo asociado de la Regla 11?
+a) Quemaduras b) Electrocución c) Contacto con energía eléctrica d) **Derrumbe de paredes**
+**Respuesta: d.** Riesgos de la Regla 11: muerte, contacto con energía eléctrica, quemaduras, electrocución, entre otros. El derrumbe es de la Regla 9.
+
+**61. (MC)** ¿Cuántos controles críticos tiene la Regla 11?
+a) 2 b) 3 c) **4** d) 5
+**Respuesta: c.** 11.1 EPP según etiqueta de shock y arco, 11.2 herramientas aisladas certificadas, 11.3 barrera de demarcación según etiqueta, 11.4 EPP y herramientas específicos para Planta EW.
