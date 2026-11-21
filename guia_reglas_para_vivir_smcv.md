@@ -38,8 +38,9 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 | 6 | *(pendiente: falta su diapositiva)* |
 | 7 | *(pendiente: falta su diapositiva)* |
 | 8 | "Regla para Vivir 8: 'Trabajos con/cerca de Sustancias Químicas NaHS (H2S), H2SO4, Cloro'" |
+| 9 | "Regla para Vivir 9: 'Excavaciones y Zanjas'" |
 
-> Con la Regla 8 ya hay **al menos 8** reglas; el total sigue sin confirmarse (puede haber más de 8).
+> Con la Regla 9 ya hay **al menos 9** reglas; el total sigue sin confirmarse (puede haber más de 9).
 
 ### Regla para Vivir 2: "Ingreso a Áreas Restringidas" – Descripción (🟢 textual)
 
@@ -137,6 +138,22 @@ Comparativo rápido:
 **Riesgos asociados:** Muerte · Intoxicación · Sofocación · Asfixia · Quemaduras, entre otros.
 
 > FDS = Ficha de Datos de Seguridad (sigla de la diapositiva; el desarrollo es conocimiento general, la diapositiva no lo desglosa).
+
+### Regla para Vivir 9: "Excavaciones y Zanjas" – Descripción (🟢 textual)
+
+> "Las excavaciones y zanjas son actividades que implican la remoción o alteración del terreno por debajo del nivel natural de la superficie."
+>
+> "Durante su ejecución existe el riesgo de derrumbe de paredes, atrapamientos y caídas de personas o materiales al interior de la excavación."
+>
+> "Asimismo, en el área de la excavación pueden existir instalaciones subterráneas no identificadas, como líneas eléctricas, tuberías de gas, combustible, agua o sistemas de comunicación que al no ser identificadas pueden generar electrocuciones, incendios, explosiones, inundaciones, liberación de sustancias peligrosas, las cuales pueden generar lesiones graves o la muerte a las personas."
+>
+> "Tenemos la obligación de identificar, evaluar y controlar estos riesgos, promoviendo una cultura de prevención que proteja la vida y la salud de los trabajadores."
+
+Puntos clave:
+- **Definición:** remoción o alteración del terreno **por debajo del nivel natural de la superficie**.
+- **Riesgos durante la ejecución:** derrumbe de paredes, atrapamientos, caídas de personas o materiales al interior de la excavación.
+- **Instalaciones subterráneas no identificadas:** líneas eléctricas, tuberías de gas, combustible, agua o sistemas de comunicación.
+- **Consecuencias si no se identifican:** electrocuciones, incendios, explosiones, inundaciones, liberación de sustancias peligrosas; lesiones graves o la muerte.
 
 ## 3. Balotario de práctica
 
@@ -254,3 +271,18 @@ a) El que elija el trabajador b) **El acorde a lo señalado en la FDS del produc
 **32. (MC)** ¿Cuál NO es un riesgo asociado de la Regla 8?
 a) Intoxicación b) Sofocación c) Quemaduras d) **Atrapamientos**
 **Respuesta: d.** Los riesgos de la Regla 8 son: muerte, intoxicación, sofocación, asfixia, quemaduras, entre otros. Atrapamientos corresponde a la Regla 5.
+
+**33. (MC)** Las excavaciones y zanjas son actividades que implican:
+a) La construcción de estructuras sobre el terreno b) **La remoción o alteración del terreno por debajo del nivel natural de la superficie** c) El transporte de material d) La instalación de cercos
+**Respuesta: b.** Regla 9, Descripción.
+
+**34. (MC)** Durante la ejecución de una excavación existe el riesgo de:
+a) Solo ruido b) **Derrumbe de paredes, atrapamientos y caídas de personas o materiales al interior de la excavación** c) Solo exposición al sol d) Falta de ventilación
+**Respuesta: b.** Regla 9, Descripción.
+
+**35. (MC)** ¿Cuál NO es una instalación subterránea que la Regla 9 menciona como posible en el área de la excavación?
+a) Líneas eléctricas b) Tuberías de gas, combustible o agua c) Sistemas de comunicación d) **Cimientos de edificios en uso**
+**Respuesta: d.** La diapositiva menciona líneas eléctricas, tuberías de gas, combustible, agua o sistemas de comunicación.
+
+**36. (V/F)** Las instalaciones subterráneas no identificadas pueden generar electrocuciones, incendios, explosiones, inundaciones y liberación de sustancias peligrosas.
+**Respuesta: V.** Regla 9, Descripción.
