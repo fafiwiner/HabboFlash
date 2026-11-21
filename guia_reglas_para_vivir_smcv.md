@@ -313,6 +313,23 @@ Puntos clave:
 
 > HDPE: sigla de la diapositiva; la foto no la desarrolla (en general, polietileno de alta densidad).
 
+### Regla para Vivir 13 – Controles críticos y riesgos (🟢 textual, diapositiva n.º 91)
+
+**Controles Críticos:**
+
+| N.º | Control crítico (textual) |
+|:-:|---|
+| 13.1 | "Implementar barrera sustancial y/o mantenerse fuera de la línea de fuego durante trabajos con tubería HDPE con riesgo de liberación de energía" |
+| 13.2 | "Implementar barrera rígida y topes durante el transporte y almacenamiento" |
+
+**Riesgos asociados:** Muerte · Atrapamiento · Golpes · Caída de cargas suspendidas · Liberación no controlada de energía · Liberación de tuberías durante el transporte o almacenamiento · Contacto con equipos en movimiento, entre otros.
+
+**Para el examen:**
+- Son **2** controles críticos.
+- **13.1** (trabajos con riesgo de liberación de energía): **barrera sustancial** y/o **mantenerse fuera de la línea de fuego**.
+- **13.2** (transporte y almacenamiento): **barrera rígida y topes**.
+- No confundir: en 13.1 la barrera es **"sustancial"**; en 13.2 es **"rígida"** y se suman **topes**.
+
 ## 3. Balotario de práctica
 
 **1. (MC)** ¿Cuál es el orden correcto de los controles críticos de energía?
@@ -587,3 +604,22 @@ a) Solo cintas de peligro b) **Sistemas de sujeción, topes y medios físicos ad
 
 **74. (V/F)** Un movimiento inesperado, la caída o desplazamiento de una tubería, la liberación repentina de energía o la interacción con equipos móviles pueden exponer a las personas a atrapamientos, golpes o lesiones graves o fatales.
 **Respuesta: V.** Regla 13, Descripción.
+
+**75. (MC)** Durante trabajos con tubería HDPE con riesgo de liberación de energía, el control crítico 13.1 exige:
+a) Solo usar EPP b) **Implementar barrera sustancial y/o mantenerse fuera de la línea de fuego** c) Implementar barrera rígida y topes d) Usar detectores portátiles
+**Respuesta: b.** Regla 13, control 13.1 (diap. 91).
+
+**76. (MC)** Durante el transporte y almacenamiento de tubería HDPE, el control crítico 13.2 exige:
+a) Mantenerse fuera de la línea de fuego b) **Implementar barrera rígida y topes** c) Usar arnés d) Monitorear la atmósfera
+**Respuesta: b.** Regla 13, control 13.2.
+
+**77. (V/F)** En el control 13.1 la barrera debe ser "sustancial", mientras que en el 13.2 debe ser "rígida" y con topes.
+**Respuesta: V.** Regla 13, controles 13.1 y 13.2.
+
+**78. (MC)** ¿Cuál NO es un riesgo asociado de la Regla 13?
+a) Caída de cargas suspendidas b) Liberación no controlada de energía c) Liberación de tuberías durante el transporte o almacenamiento d) **Intoxicación por gases**
+**Respuesta: d.** Riesgos de la Regla 13: muerte, atrapamiento, golpes, caída de cargas suspendidas, liberación no controlada de energía, liberación de tuberías durante el transporte o almacenamiento, contacto con equipos en movimiento, entre otros.
+
+**79. (MC)** ¿Cuántos controles críticos tiene la Regla 13?
+a) 1 b) **2** c) 3 d) 4
+**Respuesta: b.** 13.1 (barrera sustancial / fuera de la línea de fuego) y 13.2 (barrera rígida y topes).
