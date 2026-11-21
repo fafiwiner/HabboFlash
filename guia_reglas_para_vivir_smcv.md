@@ -35,6 +35,23 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 
 > Que la regla de Ingreso a Áreas Restringidas sea la n.º 2 indica que hay al menos 2 reglas; el total sigue sin confirmarse.
 
+### Regla para Vivir 2: "Ingreso a Áreas Restringidas" – Descripción (🟢 textual)
+
+> "En nuestra operación existen condiciones que pueden representar peligros significativos para las personas que trabajan, transitan o ingresan a determinadas áreas. Para advertir sobre estos peligros y controlar el acceso, las áreas deben clasificarse y demarcarse de acuerdo con su nivel de riesgo."
+>
+> "Cuando el peligro tenga un potencial medio o bajo, el área se clasifica como **Área Controlada** y se demarca con color **amarillo**."
+>
+> "Cuando el peligro tenga un potencial alto, se clasifica como **Área Restringida** y se demarca con color **rojo**. Además, para ingresar a un Área Restringida (roja), se requiere una **comunicación cara a cara con el responsable del trabajo**."
+
+Resumen en tabla:
+
+| Potencial del peligro | Clasificación | Color de demarcación | Para ingresar |
+|---|---|:-:|---|
+| Medio o bajo | Área Controlada | Amarillo | *(la diapositiva no indica requisito adicional)* |
+| Alto | Área Restringida | Rojo | Comunicación cara a cara con el responsable del trabajo |
+
+Letrero que se ve en la imagen: "ÁREA RESTRINGIDA – SOLO PERSONAL AUTORIZADO".
+
 ## 3. Balotario de práctica
 
 **1. (MC)** ¿Cuál es el orden correcto de los controles críticos de energía?
@@ -46,3 +63,17 @@ a) Bloquear → Identificar → Aislar → Probar y drenar b) **Identificar → 
 
 **3. (V/F)** El primer control crítico es identificar todas las fuentes de energía de los equipos o sistemas a intervenir.
 **Respuesta: V.** Diapositiva, orden 1.
+
+**4. (MC)** Cuando el peligro tiene un potencial medio o bajo, el área se clasifica como:
+a) Área Restringida, color rojo b) **Área Controlada, color amarillo** c) Área Restringida, color amarillo d) Área Controlada, color rojo
+**Respuesta: b.** Regla para Vivir 2, Descripción.
+
+**5. (MC)** Cuando el peligro tiene un potencial alto, el área se clasifica como:
+a) Área Controlada, amarillo b) **Área Restringida, rojo** c) Área Controlada, rojo d) Área Restringida, amarillo
+**Respuesta: b.** Regla para Vivir 2, Descripción.
+
+**6. (V/F)** Para ingresar a un Área Restringida (roja) se requiere una comunicación cara a cara con el responsable del trabajo.
+**Respuesta: V.** Regla para Vivir 2, Descripción.
+
+**7. (V/F)** Las áreas deben clasificarse y demarcarse de acuerdo con su nivel de riesgo.
+**Respuesta: V.** Regla para Vivir 2, Descripción.
