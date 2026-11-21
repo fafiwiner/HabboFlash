@@ -125,6 +125,19 @@ Comparativo rápido:
 | **H₂SO₄** (ácido sulfúrico) | Líquido aceitoso, incoloro a ligeramente amarillento | Altamente corrosivo (lesiones graves o muerte); reacciona con ciertos elementos y genera gases tóxicos |
 | **Cl₂** (gas cloro) | Gas | Altamente tóxico; **no inflamable, pero sí oxidante**; la inhalación puede causar la muerte |
 
+### Regla para Vivir 8 – Controles críticos y riesgos (🟢 textual, diapositiva n.º 75)
+
+**Controles Críticos:**
+
+| N.º | Control crítico (textual) |
+|:-:|---|
+| 8.1 | "Utilizar detectores portátiles operativos cuando se utilice NaHS (H2S), H2SO4 y Cloro" |
+| 8.2 | "Utilizar el EPP acorde a lo señalado en la FDS del producto" |
+
+**Riesgos asociados:** Muerte · Intoxicación · Sofocación · Asfixia · Quemaduras, entre otros.
+
+> FDS = Ficha de Datos de Seguridad (sigla de la diapositiva; el desarrollo es conocimiento general, la diapositiva no lo desglosa).
+
 ## 3. Balotario de práctica
 
 **1. (MC)** ¿Cuál es el orden correcto de los controles críticos de energía?
@@ -226,3 +239,18 @@ a) Gas inflamable b) **Líquido aceitoso, incoloro a ligeramente amarillento, al
 
 **28. (V/F)** Según la Regla 8, tenemos la obligación de identificar, evaluar y controlar estos riesgos, promoviendo una cultura de prevención que proteja la vida y la salud de los trabajadores.
 **Respuesta: V.** Cita de cierre de la diap. 74.
+
+**29. (MC)** ¿Cuál es un control crítico de la Regla para Vivir 8?
+a) Eliminar todo el material en techo y paredes b) **Utilizar detectores portátiles operativos cuando se utilice NaHS (H2S), H2SO4 y Cloro** c) Demarcar zonas con color rojo d) Usar sistemas de protección contra caídas
+**Respuesta: b.** Regla 8, control 8.1 (diap. 75). Las demás opciones son de otras reglas.
+
+**30. (MC)** El EPP que se debe utilizar con las sustancias de la Regla 8 es:
+a) El que elija el trabajador b) **El acorde a lo señalado en la FDS del producto** c) Solo casco y lentes d) El de mayor costo
+**Respuesta: b.** Regla 8, control 8.2.
+
+**31. (V/F)** Los detectores portátiles deben estar operativos cuando se utilice NaHS (H2S), H2SO4 y cloro.
+**Respuesta: V.** Regla 8, control 8.1.
+
+**32. (MC)** ¿Cuál NO es un riesgo asociado de la Regla 8?
+a) Intoxicación b) Sofocación c) Quemaduras d) **Atrapamientos**
+**Respuesta: d.** Los riesgos de la Regla 8 son: muerte, intoxicación, sofocación, asfixia, quemaduras, entre otros. Atrapamientos corresponde a la Regla 5.
