@@ -24,7 +24,16 @@ Un control crítico es una medida de control indispensable para prevenir un even
 > ⚠️ **No confundir con los 4 controles críticos de LOTOTO del estándar SSOst0036 (6.1)**, que son otros: (1) personal acreditado y CBE asignado; (2) identificación de todas las fuentes de energía (aguas arriba y aguas abajo); (3) aislamiento y bloqueo efectivo; (4) todas las personas involucradas han realizado el bloqueo personal. En esta diapositiva son los **pasos** del control de energías, en el orden: identificar → aislar → bloquear → probar y drenar. Si el examen es de "Reglas para vivir", usa el orden de esta diapositiva.
 
 ## 2. Reglas para Vivir
-**[PENDIENTE]** Número y lista de las reglas. Falta la diapositiva donde se enumeran.
+**[PENDIENTE]** Número total y lista completa de las reglas. Falta la diapositiva donde se enumeran.
+
+Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, encabezado "Copper at our core", logo Cerro Verde):
+
+| N.º | Título textual |
+|:-:|---|
+| 1 | *(pendiente: falta su diapositiva)* |
+| 2 | "Regla para Vivir 2: 'Ingreso a Áreas Restringidas'" |
+
+> Que la regla de Ingreso a Áreas Restringidas sea la n.º 2 indica que hay al menos 2 reglas; el total sigue sin confirmarse.
 
 ## 3. Balotario de práctica
 
