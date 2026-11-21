@@ -32,8 +32,9 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 |:-:|---|
 | 1 | *(pendiente: falta su diapositiva)* |
 | 2 | "Regla para Vivir 2: 'Ingreso a Áreas Restringidas'" |
+| 3 | "Regla para Vivir 3: 'Operación de Equipo Pesado/Liviano/Móvil'" |
 
-> Que la regla de Ingreso a Áreas Restringidas sea la n.º 2 indica que hay al menos 2 reglas; el total sigue sin confirmarse.
+> Con la Regla 3 ya hay **al menos 3** reglas; el total sigue sin confirmarse.
 
 ### Regla para Vivir 2: "Ingreso a Áreas Restringidas" – Descripción (🟢 textual)
 
