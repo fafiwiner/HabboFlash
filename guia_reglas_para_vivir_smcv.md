@@ -41,8 +41,9 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 | 9 | "Regla para Vivir 9: 'Excavaciones y Zanjas'" |
 | 10 | "Regla para Vivir 10: 'Trabajos en Caliente'" |
 | 11 | "Regla para Vivir 11: 'Trabajos en o cerca de Circuitos Energizados'" |
+| 12 | "Regla para Vivir 12: 'Trabajos con/cerca a Partes Móviles'" |
 
-> Con la Regla 11 ya hay **al menos 11** reglas; el total sigue sin confirmarse (puede haber más de 11). Las reglas **1, 6 y 7** siguen sin diapositiva.
+> Con la Regla 12 ya hay **al menos 12** reglas; el total sigue sin confirmarse (puede haber más de 12). Las reglas **1, 6 y 7** siguen sin diapositiva.
 >
 > La diapositiva "Definiciones" de trabajo en caliente (ver abajo) corresponde a la Regla 10; el número lo confirma la diapositiva de controles críticos.
 
@@ -249,6 +250,28 @@ Puntos clave:
 - **EPP (11.1) y barrera de demarcación (11.3):** ambos dependen de la **etiqueta de shock y arco eléctrico** del circuito a intervenir o fuente principal.
 - **Herramientas (11.2):** manuales, **aisladas y certificadas**.
 - **Planta EW (11.4):** EPP y herramientas **específicos**.
+
+### Regla para Vivir 12: "Trabajos con/cerca a Partes Móviles" – Descripción (🟢 textual)
+
+> "Los trabajos con o cerca de partes móviles representan uno de los riesgos con mayor potencial de generar atrapamientos, golpes en distintas partes del cuerpo y fatalidades."
+>
+> "Para prevenir estos eventos, todos los componentes en movimiento deben estar protegidos mediante guardas diseñadas y/o protecciones físicas para evitar el contacto físico de las personas."
+>
+> "Las guardas deben mantenerse instaladas, en buen estado y no deben ser retiradas, modificadas o anuladas durante la operación del equipo."
+>
+> "Cuando sea necesario retirar las guardas para intervenir equipos, se deberá previamente bloquear el equipo (LOTOTO)."
+>
+> "Tenemos la obligación de identificar, evaluar y controlar estos riesgos, promoviendo una cultura de prevención que proteja la vida y la salud de los trabajadores."
+
+Puntos clave:
+- **Riesgos:** atrapamientos, golpes en distintas partes del cuerpo y fatalidades.
+- **Prevención:** todos los componentes en movimiento protegidos con **guardas diseñadas y/o protecciones físicas** (evitan el contacto físico de las personas).
+- Las guardas deben estar **instaladas y en buen estado**, y **no ser retiradas, modificadas ni anuladas durante la operación** del equipo.
+- Si hay que retirar guardas para intervenir equipos: **bloquear el equipo previamente (LOTOTO)**.
+
+> **Vínculo con el curso de LOTOTO:** esta regla remite al LOTOTO (estándar SSOst0036). Para el bloqueo previo valen los pasos de la guía `guia_lototo_smcv.md`. El estándar de LOTOTO también menciona guardas, puertas y tapas como "otro control efectivo" cuando no hay dispositivo de aislamiento.
+
+> En la foto el borde derecho de la diapositiva está cortado (logo y parte de los íconos); el texto del cuerpo se lee completo.
 
 ## 3. Balotario de práctica
 
@@ -475,3 +498,18 @@ a) Quemaduras b) Electrocución c) Contacto con energía eléctrica d) **Derrumb
 **61. (MC)** ¿Cuántos controles críticos tiene la Regla 11?
 a) 2 b) 3 c) **4** d) 5
 **Respuesta: c.** 11.1 EPP según etiqueta de shock y arco, 11.2 herramientas aisladas certificadas, 11.3 barrera de demarcación según etiqueta, 11.4 EPP y herramientas específicos para Planta EW.
+
+**62. (MC)** Para prevenir atrapamientos y golpes por partes móviles, todos los componentes en movimiento deben estar protegidos mediante:
+a) Cintas de peligro b) **Guardas diseñadas y/o protecciones físicas** c) Letreros únicamente d) Cercos de malla sin anclaje
+**Respuesta: b.** Regla 12, Descripción. Su objetivo es evitar el contacto físico de las personas con las partes móviles.
+
+**63. (V/F)** Las guardas pueden retirarse o modificarse durante la operación del equipo si es por pocos minutos.
+**Respuesta: F.** "Las guardas deben mantenerse instaladas, en buen estado y no deben ser retiradas, modificadas o anuladas durante la operación del equipo." (Regla 12)
+
+**64. (MC)** Cuando sea necesario retirar las guardas para intervenir equipos, se deberá previamente:
+a) Avisar por radio b) **Bloquear el equipo (LOTOTO)** c) Reducir la velocidad d) Colocar un vigía
+**Respuesta: b.** Regla 12, Descripción.
+
+**65. (MC)** Los trabajos con o cerca de partes móviles representan uno de los riesgos con mayor potencial de generar:
+a) Electrocuciones b) **Atrapamientos, golpes en distintas partes del cuerpo y fatalidades** c) Intoxicaciones d) Inundaciones
+**Respuesta: b.** Regla 12, Descripción.
