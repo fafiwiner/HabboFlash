@@ -40,8 +40,9 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 | 8 | "Regla para Vivir 8: 'Trabajos con/cerca de Sustancias Químicas NaHS (H2S), H2SO4, Cloro'" |
 | 9 | "Regla para Vivir 9: 'Excavaciones y Zanjas'" |
 | 10 | "Regla para Vivir 10: 'Trabajos en Caliente'" |
+| 11 | "Regla para Vivir 11: 'Trabajos en o cerca de Circuitos Energizados'" |
 
-> Con la Regla 10 ya hay **al menos 10** reglas; el total sigue sin confirmarse (puede haber más de 10). Las reglas **1, 6 y 7** siguen sin diapositiva.
+> Con la Regla 11 ya hay **al menos 11** reglas; el total sigue sin confirmarse (puede haber más de 11). Las reglas **1, 6 y 7** siguen sin diapositiva.
 >
 > La diapositiva "Definiciones" de trabajo en caliente (ver abajo) corresponde a la Regla 10; el número lo confirma la diapositiva de controles críticos.
 
@@ -214,6 +215,21 @@ Puntos clave:
 | Explosividad de la atmósfera (LEL) en tanques, estanques, recipientes o tuberías que contengan o hayan contenido líquidos o gases inflamables | **LEL < 10 %** |
 
 > LEL: sigla de la diapositiva (en general, límite inferior de explosividad); la diapositiva no la desarrolla.
+
+### Regla para Vivir 11: "Trabajos en o cerca de Circuitos Energizados" – Descripción (🟢 textual, diapositiva n.º 84)
+
+> "Los trabajos en o cerca de circuitos eléctricos energizados pueden exponer a las personas a energía eléctrica capaz de provocar lesiones graves o fatales por choque o arco eléctrico. El peligro no se limita al contacto directo con un conductor energizado. La aproximación a partes energizadas expuestas también puede generar una condición de alto riesgo cuando no se respetan las distancias y controles establecidos."
+>
+> "Un choque eléctrico puede producirse cuando una persona entra en contacto o se aproxima a partes energizadas expuestas, mientras que un arco eléctrico puede liberar súbitamente una gran cantidad de energía térmica. Por ello, nunca debemos asumir que una intervención es segura únicamente porque no habrá contacto directo con el circuito."
+>
+> "Tenemos la obligación de identificar, evaluar y controlar estos riesgos, promoviendo una cultura de prevención que proteja la vida y la salud de los trabajadores."
+
+Puntos clave:
+- Lesiones graves o fatales por **choque eléctrico** o **arco eléctrico**.
+- El peligro **no se limita al contacto directo** con un conductor energizado: también la **aproximación a partes energizadas expuestas** cuando no se respetan las **distancias y controles establecidos**.
+- **Choque eléctrico:** la persona entra en contacto **o se aproxima** a partes energizadas expuestas.
+- **Arco eléctrico:** puede liberar súbitamente una gran cantidad de **energía térmica**.
+- **Nunca asumir** que una intervención es segura únicamente porque no habrá contacto directo con el circuito.
 
 ## 3. Balotario de práctica
 
@@ -399,3 +415,21 @@ a) Atrapamiento por derrumbe b) **Muerte, quemaduras e incendios** c) Asfixia po
 **50. (MC)** ¿Cuántos controles críticos tiene la Regla 10?
 a) 1 b) **2** c) 3 d) 4
 **Respuesta: b.** 10.1 (material inflamable/combustible a 11 m) y 10.2 (monitoreo de explosividad, LEL < 10%).
+
+**51. (V/F)** El peligro en trabajos en o cerca de circuitos energizados se limita al contacto directo con un conductor energizado.
+**Respuesta: F.** "El peligro no se limita al contacto directo con un conductor energizado." La aproximación a partes energizadas expuestas también puede generar una condición de alto riesgo cuando no se respetan las distancias y controles establecidos. (Regla 11, diap. 84)
+
+**52. (MC)** Un arco eléctrico puede:
+a) Solo causar un apagón b) **Liberar súbitamente una gran cantidad de energía térmica** c) Generar gases tóxicos d) Congelar el circuito
+**Respuesta: b.** Regla 11, Descripción.
+
+**53. (MC)** Un choque eléctrico puede producirse cuando una persona:
+a) Solo toca el conductor con la mano b) **Entra en contacto o se aproxima a partes energizadas expuestas** c) Está a más de 10 metros d) Usa guantes dieléctricos
+**Respuesta: b.** Regla 11, Descripción.
+
+**54. (V/F)** Se puede asumir que una intervención es segura si no habrá contacto directo con el circuito.
+**Respuesta: F.** "Nunca debemos asumir que una intervención es segura únicamente porque no habrá contacto directo con el circuito." (Regla 11, Descripción)
+
+**55. (MC)** La aproximación a partes energizadas expuestas puede generar una condición de alto riesgo cuando:
+a) Hay lluvia b) **No se respetan las distancias y controles establecidos** c) Se trabaja de noche d) Se usa herramienta manual
+**Respuesta: b.** Regla 11, Descripción.
