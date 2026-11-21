@@ -44,8 +44,9 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 | 12 | "Regla para Vivir 12: 'Trabajos con/cerca a Partes Móviles'" |
 | 13 | "Regla para Vivir 13: 'Trabajos con Tuberías HDPE'" |
 | 14 | "Regla para Vivir 14: 'Trabajos en Taludes y Terreno'" |
+| 15 | "Regla para Vivir 15: 'Ahogamiento'" |
 
-> Con la Regla 14 ya hay **al menos 14** reglas; el total sigue sin confirmarse (puede haber más de 14). Las reglas **1, 6 y 7** siguen sin diapositiva.
+> Con la Regla 15 ya hay **al menos 15** reglas; el total sigue sin confirmarse (puede haber más de 15). Las reglas **1, 6 y 7** siguen sin diapositiva.
 >
 > La diapositiva "Definiciones" de trabajo en caliente (ver abajo) corresponde a la Regla 10; el número lo confirma la diapositiva de controles críticos.
 
@@ -367,6 +368,24 @@ Puntos clave:
 - **Botaderos = plataformas** de descarga de material.
 
 > En la foto el borde derecho de la diapositiva está cortado; el texto de los controles y de los riesgos se lee completo.
+
+### Regla para Vivir 15: "Ahogamiento" – Controles críticos y riesgos (🟢 textual, diapositiva n.º 97)
+
+**Controles Críticos:**
+
+| N.º | Control crítico (textual) |
+|:-:|---|
+| 15.1 | "Usar chaleco salvavidas al trabajar cerca de cuerpos de agua o embalses" |
+
+**Riesgos asociados:** Muerte · Caída a cuerpos de agua · Tanques de proceso · Canales abiertos con líquido, entre otros.
+
+**Para el examen:**
+- Es **1** solo control crítico: **chaleco salvavidas**.
+- Se usa **al trabajar cerca de cuerpos de agua o embalses**.
+- Los riesgos incluyen no solo cuerpos de agua, sino también **tanques de proceso** y **canales abiertos con líquido**.
+- La imagen muestra un letrero "PELIGRO – RIESGO DE AHOGAMIENTO" y un salvavidas de anillo.
+
+> La foto no incluye la diapositiva de descripción de esta regla; falta.
 
 ## 3. Balotario de práctica
 
@@ -699,3 +718,17 @@ a) Colapso de taludes naturales b) Colapso de suelos conformados c) Caída de ro
 **89. (MC)** ¿Cuántos controles críticos tiene la Regla 14?
 a) 1 b) 2 c) **3** d) 4
 **Respuesta: c.** 14.1, 14.2 y 14.3.
+
+**90. (MC)** El control crítico de la Regla para Vivir 15 (Ahogamiento) es:
+a) Monitorear la atmósfera b) **Usar chaleco salvavidas al trabajar cerca de cuerpos de agua o embalses** c) Instalar barreras rígidas d) Usar arnés de cuerpo completo
+**Respuesta: b.** Regla 15, control 15.1 (diap. 97).
+
+**91. (MC)** ¿Cuál es un riesgo asociado de la Regla 15?
+a) Contacto con energía eléctrica b) **Caída a cuerpos de agua, tanques de proceso y canales abiertos con líquido** c) Derrumbe de paredes d) Atrapamiento por partes móviles
+**Respuesta: b.** Regla 15, riesgos asociados: muerte, caída a cuerpos de agua, tanques de proceso, canales abiertos con líquido, entre otros.
+
+**92. (V/F)** El chaleco salvavidas se exige únicamente en embalses y no en tanques de proceso.
+**Respuesta: Ojo.** El control 15.1 dice "al trabajar cerca de cuerpos de agua o embalses". Los tanques de proceso y los canales abiertos con líquido figuran entre los **riesgos asociados** de la regla, pero el control textual menciona solo cuerpos de agua o embalses. Si el examen lo pregunta así, confirma con el instructor.
+
+**93. (V/F)** La Regla 15 tiene un solo control crítico.
+**Respuesta: V.** Solo 15.1 (chaleco salvavidas).
