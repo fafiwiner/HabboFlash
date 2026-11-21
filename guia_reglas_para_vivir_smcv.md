@@ -35,8 +35,11 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 | 3 | "Regla para Vivir 3: 'Operación de Equipo Pesado/Liviano/Móvil'" |
 | 4 | "Regla para Vivir 4: 'Trabajos en Altura o Desnivel / Open Hole / Caída de objetos'" |
 | 5 | "Regla para Vivir 5: 'Trabajo en Espacios Confinados'" |
+| 6 | *(pendiente: falta su diapositiva)* |
+| 7 | *(pendiente: falta su diapositiva)* |
+| 8 | "Regla para Vivir 8: 'Trabajos con/cerca de Sustancias Químicas NaHS (H2S), H2SO4, Cloro'" |
 
-> Con la Regla 5 ya hay **al menos 5** reglas; el total sigue sin confirmarse.
+> Con la Regla 8 ya hay **al menos 8** reglas; el total sigue sin confirmarse (puede haber más de 8).
 
 ### Regla para Vivir 2: "Ingreso a Áreas Restringidas" – Descripción (🟢 textual)
 
@@ -91,6 +94,17 @@ Puntos clave:
 **Riesgos asociados:** Muerte · Atrapamientos · Atmósfera enrarecida · Intoxicación · Asfixia, entre otros.
 
 > Observación: la numeración de los controles críticos (4.1 a 4.4) empieza con el número de la regla (Regla 4). Probablemente la Regla 2 y la Regla 3 tienen los suyos como 2.x y 3.x en diapositivas que aún no he visto.
+
+### Regla para Vivir 8: "Trabajos con/cerca de Sustancias Químicas NaHS (H2S), H2SO4, Cloro" – Descripción (🟢 textual, diapositiva n.º 73)
+
+> "La ejecución de actividades en áreas donde se almacena, transporta o utilizan NaHS, H₂SO₄ y Cl₂ requiere controles rigurosos debido al potencial de exposición a sustancias tóxicas, corrosivas y reactivas. La liberación de HS [sic: probablemente H₂S] por el NaHS, la exposición a ácido sulfúrico, sus nieblas, gases y vapores o las fugas de cloro pueden derivar en [con]secuencias fatales para las personas."
+> *(El inicio de "consecuencias" estaba tapado por el brazo del expositor en la foto.)*
+
+Puntos clave:
+- Sustancias: **NaHS** (hidrosulfuro de sodio, que libera H₂S), **H₂SO₄** (ácido sulfúrico) y **Cl₂** (cloro).
+- Actividades: donde se **almacena, transporta o utiliza** alguna de ellas.
+- Se requieren **controles rigurosos** por el potencial de exposición a sustancias **tóxicas, corrosivas y reactivas**.
+- Peligros que pueden ser **fatales**: liberación de H₂S por el NaHS; exposición a ácido sulfúrico, sus nieblas, gases y vapores; fugas de cloro.
 
 ## 3. Balotario de práctica
 
@@ -161,3 +175,14 @@ a) Atrapamientos b) Atmósfera enrarecida c) Asfixia d) **Caída de objetos desd
 **19. (MC)** ¿Cuál NO es un riesgo asociado de la Regla 4?
 a) Muerte b) Caídas a distinto nivel c) Golpes d) **Intoxicación por gases**
 **Respuesta: d.** Los riesgos asociados que lista la diapositiva son: muerte, caídas a distinto nivel, golpes, lesiones, entre otros. La intoxicación por gases no está en la lista.
+
+**20. (MC)** Las sustancias químicas de la Regla para Vivir 8 son:
+a) Amoníaco, ácido clorhídrico y cal b) **NaHS (H₂S), H₂SO₄ y cloro** c) Diésel, gasolina y grasa d) Cianuro, mercurio y plomo
+**Respuesta: b.** Regla 8, título y Descripción (diap. 73).
+
+**21. (MC)** La ejecución de actividades en áreas donde se almacena, transporta o utilizan NaHS, H₂SO₄ y Cl₂ requiere controles rigurosos debido al potencial de exposición a sustancias:
+a) Inflamables, explosivas y radiactivas b) **Tóxicas, corrosivas y reactivas** c) Biológicas y radiactivas d) Pesadas y ruidosas
+**Respuesta: b.** Regla 8, Descripción.
+
+**22. (V/F)** La exposición a ácido sulfúrico, sus nieblas, gases y vapores, y las fugas de cloro pueden derivar en consecuencias fatales para las personas.
+**Respuesta: V.** Regla 8, Descripción.
