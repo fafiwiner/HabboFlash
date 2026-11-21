@@ -348,6 +348,26 @@ Puntos clave:
 - **Se requiere (3 cosas):** (1) **identificación oportuna** de condiciones de riesgo; (2) **evaluación permanente** de la estabilidad geotécnica; (3) **implementación de medidas de control** que garanticen la ejecución segura de las actividades en áreas adyacentes a taludes.
 - La imagen muestra letreros "PELIGRO – TALUD INESTABLE" y "Talud (monitoreado)", con un topógrafo y estación total.
 
+### Regla para Vivir 14 – Controles críticos y riesgos (🟢 textual)
+
+**Controles Críticos:**
+
+| N.º | Control crítico (textual) |
+|:-:|---|
+| 14.1 | "No realizar trabajos en taludes que no hayan sdo [sic] monitoreados y/o inspeccionados" |
+| 14.2 | "No realizar descargas de material en plataformas (botaderos) que no hayan sido inspeccionadas y/o monitoreadas" |
+| 14.3 | "En minado a banco doble, realizar el carguío de material por el lado derecho" |
+
+**Riesgos asociados:** Muerte · Colapso de taludes naturales · Colapso de taludes conformados · Colapso de suelos conformados · Caída de rocas · Lesiones, entre otros.
+
+**Para el examen:**
+- Son **3** controles críticos.
+- **14.1 y 14.2** son prohibiciones ("No…"): no trabajar en taludes, ni descargar en plataformas (botaderos), que **no hayan sido monitoreados y/o inspeccionados**.
+- **14.3** es una instrucción: en **minado a banco doble**, el **carguío** se realiza por el **lado derecho**.
+- **Botaderos = plataformas** de descarga de material.
+
+> En la foto el borde derecho de la diapositiva está cortado; el texto de los controles y de los riesgos se lee completo.
+
 ## 3. Balotario de práctica
 
 **1. (MC)** ¿Cuál es el orden correcto de los controles críticos de energía?
@@ -656,3 +676,26 @@ a) Solo señalización b) **Identificación oportuna de condiciones de riesgo, e
 
 **83. (V/F)** La evaluación de la estabilidad geotécnica en áreas adyacentes a taludes debe ser permanente.
 **Respuesta: V.** Regla 14, Descripción: "la evaluación permanente de la estabilidad geotécnica".
+
+**84. (MC)** ¿Por qué lado se debe realizar el carguío de material en minado a banco doble, según el control 14.3?
+a) Izquierdo b) **Derecho** c) Por ambos lados d) Por el frente
+**Respuesta: b.** Regla 14, control 14.3.
+
+**85. (MC)** No se deben realizar trabajos en taludes que no hayan sido:
+a) Pintados y señalizados b) **Monitoreados y/o inspeccionados** c) Escalonados d) Regados
+**Respuesta: b.** Regla 14, control 14.1.
+
+**86. (MC)** No se deben realizar descargas de material en plataformas (botaderos) que no hayan sido:
+a) Compactadas b) **Inspeccionadas y/o monitoreadas** c) Cercadas d) Aprobadas por el cliente
+**Respuesta: b.** Regla 14, control 14.2.
+
+**87. (MC)** ¿Cuál NO es un riesgo asociado de la Regla 14?
+a) Colapso de taludes naturales b) Colapso de suelos conformados c) Caída de rocas d) **Contacto con energía eléctrica**
+**Respuesta: d.** Riesgos de la Regla 14: muerte, colapso de taludes naturales y conformados, colapso de suelos conformados, caída de rocas, lesiones, entre otros.
+
+**88. (V/F)** Los controles críticos 14.1 y 14.2 se aplican tanto a los taludes como a las plataformas (botaderos): no se trabaja ni se descarga si no hay inspección y/o monitoreo.
+**Respuesta: V.** Regla 14, controles 14.1 y 14.2.
+
+**89. (MC)** ¿Cuántos controles críticos tiene la Regla 14?
+a) 1 b) 2 c) **3** d) 4
+**Respuesta: c.** 14.1, 14.2 y 14.3.
