@@ -34,8 +34,9 @@ Reglas identificadas hasta ahora (🟢 diapositivas de portada de cada regla, en
 | 2 | "Regla para Vivir 2: 'Ingreso a Áreas Restringidas'" |
 | 3 | "Regla para Vivir 3: 'Operación de Equipo Pesado/Liviano/Móvil'" |
 | 4 | "Regla para Vivir 4: 'Trabajos en Altura o Desnivel / Open Hole / Caída de objetos'" |
+| 5 | "Regla para Vivir 5: 'Trabajo en Espacios Confinados'" |
 
-> Con la Regla 4 ya hay **al menos 4** reglas; el total sigue sin confirmarse.
+> Con la Regla 5 ya hay **al menos 5** reglas; el total sigue sin confirmarse.
 
 ### Regla para Vivir 2: "Ingreso a Áreas Restringidas" – Descripción (🟢 textual)
 
@@ -77,6 +78,17 @@ Puntos clave:
 | 4.4 | "Demarcar como área restringida temporal zonas inferiores con riesgo de caída de objetos" |
 
 **Riesgos asociados:** Muerte · Caídas a distinto nivel · Golpes · Lesiones, entre otros.
+
+### Regla para Vivir 5: "Trabajo en Espacios Confinados" – Controles críticos y riesgos (🟢 textual, diapositiva n.º 64)
+
+**Controles Críticos:**
+
+| N.º | Control crítico (textual) |
+|:-:|---|
+| 5.1 | "Eliminar todo el material en techo y /o paredes que pueda caer al personal" |
+| 5.2 | "Monitorear la atmósfera del espacio confinado antes de ingresar y durante la ejecución de la tarea dependiendo de la evaluación de riesgos" |
+
+**Riesgos asociados:** Muerte · Atrapamientos · Atmósfera enrarecida · Intoxicación · Asfixia, entre otros.
 
 > Observación: la numeración de los controles críticos (4.1 a 4.4) empieza con el número de la regla (Regla 4). Probablemente la Regla 2 y la Regla 3 tienen los suyos como 2.x y 3.x en diapositivas que aún no he visto.
 
@@ -131,6 +143,21 @@ a) Cubrir los objetos con lona b) **Demarcar como área restringida temporal zon
 **14. (V/F)** Instalar barreras rígidas o protecciones en open hole (aberturas en piso o pared) es un control crítico de la Regla 4.
 **Respuesta: V.** Regla 4, control 4.3.
 
-**15. (MC)** ¿Cuál NO es un riesgo asociado de la Regla 4?
+**15. (MC)** ¿Cuál es un control crítico de la Regla para Vivir 5 (Trabajo en Espacios Confinados)?
+a) Usar sistemas de protección contra caídas aprobados b) **Monitorear la atmósfera del espacio confinado antes de ingresar y durante la ejecución de la tarea, dependiendo de la evaluación de riesgos** c) Demarcar zonas inferiores d) Instalar barreras rígidas en open hole
+**Respuesta: b.** Regla 5, control 5.2. Las opciones a, c y d son controles de la Regla 4.
+
+**16. (MC)** El control crítico 5.1 indica:
+a) Usar arnés de cuerpo completo b) **Eliminar todo el material en techo y/o paredes que pueda caer al personal** c) Instalar ventilación forzada d) Colocar vigía
+**Respuesta: b.** Regla 5, control 5.1.
+
+**17. (V/F)** El monitoreo de la atmósfera en un espacio confinado se hace antes de ingresar y durante la ejecución de la tarea, dependiendo de la evaluación de riesgos.
+**Respuesta: V.** Regla 5, control 5.2.
+
+**18. (MC)** ¿Cuál NO es un riesgo asociado de la Regla 5?
+a) Atrapamientos b) Atmósfera enrarecida c) Asfixia d) **Caída de objetos desde altura**
+**Respuesta: d.** Los riesgos de la Regla 5 son: muerte, atrapamientos, atmósfera enrarecida, intoxicación, asfixia, entre otros. La caída de objetos es un riesgo asociado a la Regla 4.
+
+**19. (MC)** ¿Cuál NO es un riesgo asociado de la Regla 4?
 a) Muerte b) Caídas a distinto nivel c) Golpes d) **Intoxicación por gases**
 **Respuesta: d.** Los riesgos asociados que lista la diapositiva son: muerte, caídas a distinto nivel, golpes, lesiones, entre otros. La intoxicación por gases no está en la lista.
